@@ -116,6 +116,8 @@ https://venomxop.com/play.m3u8?id=fox501
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Sports group-title="",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports group-title="",Astro Cricket
+http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png group-title="Sports",MU TV
@@ -234,6 +236,8 @@ https://criccoder.pages.dev/astro.m3u8
 https://fyfl.short.gy/017666.blogspot.com/astrocricket.m3u8
 #EXTINF:-1 tvg-logo=" group-title="Cricket 🏏" tvg-logo=", ফুটবল সরাসরি 
 https://sportnext.online/hls/M1.m3u8
+#EXTINF:-1 tvg-logo=" group-title="Cricket 🏏" tvg-logo=", সরাসরি আকাশ DTH
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=" group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/qycmzmw/images-1.jpg", GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
 #EXTINF:-1 tvg-logo=" group-title="Cricket 🏏" tvg-logo="", Super Sports Cricket HD
@@ -712,18 +716,10 @@ https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PyDjUZB.png group-title="Undefined",NDTV India (480p) [Not 24/7]
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l6Ndjnh.png group-title="News",News18 Bangla (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCbf0XHULBkTfv2hBjaaDw9Q.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y7c0omK.png group-title="News",News18 Rajasthan (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC7FlLbNo66YsCEAPuJITiNg.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcwkEDM.png group-title="News",News18 Uttar Pradesh Uttarakhand [Not 24/7]
-https://ythls.armelin.one/channel/UCafYgzpyw7aIUYOLjjADu7w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x72O77X.png group-title="News",News 24 (720p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Jh8LRI.png group-title="Entertainment",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lKPGT0G.png group-title="Undefined",Powervision TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNsg5Px.png group-title="News",Pratham Khabar 24x7 (576p)
 https://livelegitpro.in/hls2/newstime/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dHarb7.png group-title="Undefined",Pravasi Channel (1080p)
@@ -820,8 +816,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etr1k08.png group-title="Music",Vaanavil TV (720p)
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Vasanth_TV_logo.png group-title="Undefined",Vasanth TV (240p)
-https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvXCjha.png group-title="News",VBC News (576p)
 https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbU36xI.png group-title="General",VCV (720p) [Not 24/7]
@@ -842,7 +836,3 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBL7YrC.png group-title="Undefined",Zee Alwan (720p) [Geo-blocked]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D4S3S0c/Zee-Kannada-News-2022.png group-title="News",Zee Kannada News (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7VrjKV/Zee-Telugu-News-2022-1.png group-title="News",Zee Telugu News (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCfWo0Z5PKYd86JfQ5ZE5cWg.m3u8
