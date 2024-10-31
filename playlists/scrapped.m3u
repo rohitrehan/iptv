@@ -26,6 +26,8 @@ https://nowmeplay.com/delta/discovery/api/TLC_Hindi.m3u8
 https://nowmeplay.com/delta/discovery/api/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2021/05/histor18hd.webp group-title="Discovery;Infotainment",History TV18 HD Hindi
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/02/COLORSTVHD.jpg group-title="Entertainment",Colors HD 1
+https://colorsscreen.com/live.php?id=144&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/02/COLORSTVHD.jpg group-title="Entertainment",Colors HD 2
 https://mhdlivetv.com/jiocinema/?play=3694429
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2022/02/APNA.webp group-title="Pakistan",Apna TV
@@ -304,6 +306,8 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 #EXTINF:-1 tvg-logo=" group-title="News internasional" tvg-logo="https://i.imgur.com/reun9rr.png",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1 tvg-logo=" group-title="News internasional" tvg-logo="https://i.imgur.com/wgiusfu.png",BBC News
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo=" group-title="News internasional" tvg-logo="https://i.imgur.com/a1xzjoi.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png group-title="News internasional", FOX News (AU) 🛜
