@@ -30,20 +30,20 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 #EXTINF:-1  group-title="Punjabi" group-title="Music",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="Movies" group-title="Punjabi" group-title="Comedy",Pitara Comedy
+#EXTINF:-1  group-title="Punjabi" group-title="Comedy" group-title="Movies",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1  group-title="Punjabi",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
 #EXTINF:-1  group-title="Punjabi" group-title="Music",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
+#EXTINF:-1  group-title="Punjabi" group-title="Music",PTC Dhol
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1  group-title="Punjabi",Pitara TV
 https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
 #EXTINF:-1  group-title="Punjabi" group-title="Music",9x Tashsan 1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
 #EXTINF:-1  group-title="Punjabi" group-title="Music",9x Tashsan 2
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/02/COLORSTVHD.jpg" group-title="Entertainment",Colors HD 1
-https://colorsscreen.com/live.php?id=144&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/02/COLORSTVHD.jpg" group-title="Entertainment",Colors HD 2
 https://mhdlivetv.com/jiocinema/?play=3694429
 #EXTINF:-1 tvg-logo="https://nowmeplay.com/wp-content/uploads/2022/02/APNA.webp" group-title="Pakistan",Apna TV
@@ -262,8 +262,6 @@ https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1  group-title="Cricket", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  group-title="Football", SETANTA SPORT B
-https://rzkgtzlsvbb.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
 #EXTINF:-1  group-title="Football",SETANTA SPORT 2
 https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
 #EXTINF:-1  group-title="Football", Live Sports Football Laliga
@@ -318,6 +316,8 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 #EXTINF:-1  group-title="News internasional",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1  group-title="News internasional",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png", FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png", RTNEWS GLOBAL
