@@ -30,7 +30,7 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 #EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music" group-title="Punjabi",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Comedy" group-title="Movies" group-title="Punjabi",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Comedy" group-title="Punjabi" group-title="Movies",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-punjab" https://rohitrehan.github.io/iptv/logos/tv-punjab.png group-title="Punjabi",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
@@ -72,8 +72,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
 #EXTINF:-1 tvg-id="asian-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png",Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-id="-bongo-dramas" tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png", BONGO DRAMAS
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF:-1 tvg-id="kids-creation" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="channel-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",Channel 24
@@ -88,12 +86,12 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="-arihant-tv" https://rohitrehan.github.io/iptv/logos/-arihant-tv.png group-title="Relagion channel", Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="-bongo-movies" tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png", BONGO MOVIES
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
 #EXTINF:-1 tvg-id="amar-digital" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-id="sananda-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU",Sananda TV
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="calcutta-news" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png",Calcutta News
-https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="samay-kolkata" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png",Samay Kolkata
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 #EXTINF:-1 tvg-id="sony-kal" https://rohitrehan.github.io/iptv/logos/sony-kal.png group-title="Hindi",Sony Kal
@@ -228,6 +226,8 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
 #EXTINF:-1 tvg-id="animal_planet" https://rohitrehan.github.io/iptv/logos/animal_planet.png group-title="Live tv",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="madani-channel" https://rohitrehan.github.io/iptv/logos/madani-channel.png group-title="Live tv",Madani Channel
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
 #EXTINF:-1 tvg-id="-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে" https://rohitrehan.github.io/iptv/logos/-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে.png group-title="Cricket", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-id="-tnt-sports-2-🇧🇩" https://rohitrehan.github.io/iptv/logos/-tnt-sports-2-🇧🇩.png group-title="Cricket", TnT Sports 2 🇧🇩
@@ -244,6 +244,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 tvg-id="-astro-cricket-hd" https://rohitrehan.github.io/iptv/logos/-astro-cricket-hd.png group-title="Cricket", Astro Cricket HD
 https://fyfl.short.gy/017666.blogspot.com/astrocricket.m3u8
+#EXTINF:-1 tvg-id="-ফুটবল-সরাসরি" https://rohitrehan.github.io/iptv/logos/-ফুটবল-সরাসরি.png group-title="Cricket", ফুটবল সরাসরি
+https://sportnext.online/hls/M1.m3u8
 #EXTINF:-1 tvg-id="-gxr-world-🇮🇳" https://rohitrehan.github.io/iptv/logos/-gxr-world-🇮🇳.png group-title="Cricket", GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
 #EXTINF:-1 tvg-id="-super-sports-cricket-hd" https://rohitrehan.github.io/iptv/logos/-super-sports-cricket-hd.png group-title="Cricket", Super Sports Cricket HD
