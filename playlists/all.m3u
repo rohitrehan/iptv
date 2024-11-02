@@ -26,21 +26,21 @@ https://nowmeplay.com/delta/discovery/api/TLC_Hindi.m3u8
 https://nowmeplay.com/delta/discovery/api/Food%20Network.m3u8
 #EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://nowmeplay.com/wp-content/uploads/2021/05/histor18hd.webp" group-title="Discovery" group-title="Infotainment",History TV18 HD Hindi
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Punjabi" group-title="Music",Balle Balle 1
+#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Music" group-title="Punjabi",Balle Balle 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Punjabi" group-title="Music",Balle Balle 2
+#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music" group-title="Punjabi",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Punjabi" group-title="Movies" group-title="Comedy",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Comedy" group-title="Punjabi" group-title="Movies",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-punjab" https://rohitrehan.github.io/iptv/logos/tv-punjab.png group-title="Punjabi",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Punjabi" group-title="Music",Punjabi Hits
+#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Music" group-title="Punjabi",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
 #EXTINF:-1 tvg-id="pitara-tv" https://rohitrehan.github.io/iptv/logos/pitara-tv.png group-title="Punjabi",Pitara TV
 https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Punjabi" group-title="Music",9x Tashsan 1
+#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Music" group-title="Punjabi",9x Tashsan 1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Punjabi" group-title="Music",9x Tashsan 2
+#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Music" group-title="Punjabi",9x Tashsan 2
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="colors-hd-pre" tvg-logo="https://nowmeplay.com/wp-content/uploads/2020/02/COLORSTVHD.jpg" group-title="Entertainment",Colors HD pre
 https://neestreamtv.com/fuck-your-mother-ass-jared-solomon/play.php?id=3694429
@@ -68,6 +68,8 @@ https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
 https://giveawayzone.xyz/m/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="deepto-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="desh-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Desh%20TV.png",Desh TV
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
 #EXTINF:-1 tvg-id="asian-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png",Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-id="-bongo-dramas" tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png", BONGO DRAMAS
