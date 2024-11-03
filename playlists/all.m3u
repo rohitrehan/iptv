@@ -30,7 +30,7 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 #EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music;Punjabi",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Punjabi;Movies;Comedy",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Comedy;Movies;Punjabi",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-punjab" https://rohitrehan.github.io/iptv/logos/tv-punjab.png group-title="Punjabi",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
@@ -76,7 +76,7 @@ https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in" tvg-logo="https://i.imgur.com/8PHk66Q.png" group-title="Music",PTC Music (720p)
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCNews.in" tvg-logo="https://i.imgur.com/8BHV6Gr.png" group-title="Pt;News", News (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-logo="https://i.imgur.com/8BHV6Gr.png" group-title="News;Pt", News (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQLEbraENUGWh6p1Rv664rQ.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-logo="https://i.imgur.com/nbUMvaR.png" group-title="Undefined",PTC Punjabi (720p)
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
@@ -258,6 +258,8 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF:-1 tvg-id="kids-creation" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="channel-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="",Channel 24
+https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@channel24digital
 #EXTINF:-1 tvg-id="-peace-tv-english" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="", Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="-peace-tv-urdu" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="", Peace TV Urdu
@@ -316,6 +318,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2" https://rohitrehan.github.io/iptv/logos/bein-sports-2.png group-title="Sports",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="astro-cricket" https://rohitrehan.github.io/iptv/logos/astro-cricket.png group-title="Sports",Astro Cricket
+http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-id="mu-tv" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="mu-tv" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="",MU TV
@@ -416,6 +420,8 @@ https://stream.spicefmbd.com/stream.m3u8
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 #EXTINF:-1 tvg-id="-t-sports-🇧🇩-hd-1" https://rohitrehan.github.io/iptv/logos/-t-sports-🇧🇩-hd-1.png group-title="Cricket", T Sports 🇧🇩 HD 1
 https://fyfl.short.gy/017666.blogspot.com/0007.m3u8
+#EXTINF:-1 tvg-id="-t-sports-hd-4" tvg-logo="https://i.ibb.co/5B1KtYs/download-3.jpg" group-title="", T-Sports HD 4
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="-star-sports-1-hd" https://rohitrehan.github.io/iptv/logos/-star-sports-1-hd.png group-title="Cricket", Star-Sports-1-HD
 https://cdn-bd.televisionbd.com/Star-Sports-1-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="-wild-nature" https://rohitrehan.github.io/iptv/logos/-wild-nature.png group-title="Cricket", Wild Nature
@@ -498,8 +504,6 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
 #EXTINF:-1 tvg-id="bbc-news" https://rohitrehan.github.io/iptv/logos/bbc-news.png group-title="News internasional",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id="bbc-news" https://rohitrehan.github.io/iptv/logos/bbc-news.png group-title="News internasional",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-id="dw-english" https://rohitrehan.github.io/iptv/logos/dw-english.png group-title="News internasional",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-id="-fox-news-(au)-🛜" tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="", FOX News (AU) 🛜
