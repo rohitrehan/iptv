@@ -1,36 +1,36 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source,# Please let us know. We respect your opinions and efforts, so we will not object to removing your source.
-#EXTINF:-1 tvg-id="animal-planet-hindi" https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png group-title="Infotainment;Discovery",Animal Planet hindi
+#EXTINF:-1 tvg-id="animal-planet-hindi" https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png group-title="Discovery;Infotainment",Animal Planet hindi
 https://neeplay.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8
-#EXTINF:-1 tvg-id="animal-planet" https://rohitrehan.github.io/iptv/logos/animal-planet.png group-title="Infotainment;Discovery",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet" https://rohitrehan.github.io/iptv/logos/animal-planet.png group-title="Discovery;Infotainment",Animal Planet
 https://neeplay.com/delta/discovery/api/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="discovery-hd-hindi" tvg-logo="https://i.imgur.com/OVIuZyY.png" group-title="Infotainment;Discovery",Discovery HD Hindi
+#EXTINF:-1 tvg-id="discovery-hd-hindi" tvg-logo="https://i.imgur.com/OVIuZyY.png" group-title="Discovery;Infotainment",Discovery HD Hindi
 https://neeplay.com/delta/discovery/api/Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="discovery-science-hindi" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Infotainment;Discovery",Discovery Science Hindi
+#EXTINF:-1 tvg-id="discovery-science-hindi" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Discovery;Infotainment",Discovery Science Hindi
 https://neeplay.com/delta/discovery/api/Discovery_Science_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery-hindi" tvg-logo="https://i.imgur.com/tWu1cHd.png" group-title="Infotainment;Discovery",Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="investigation-discovery-hindi" tvg-logo="https://i.imgur.com/tWu1cHd.png" group-title="Discovery;Infotainment",Investigation Discovery Hindi
 https://neeplay.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="discovery-kids-hindi" tvg-logo="https://i.imgur.com/37lrOuT.jpeg" group-title="Infotainment;Discovery",Discovery Kids Hindi
+#EXTINF:-1 tvg-id="discovery-kids-hindi" tvg-logo="https://i.imgur.com/37lrOuT.jpeg" group-title="Discovery;Infotainment",Discovery Kids Hindi
 https://neeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://i.imgur.com/W93YRf0.png" group-title="Infotainment;Discovery",Investigation Discovery
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://i.imgur.com/W93YRf0.png" group-title="Discovery;Infotainment",Investigation Discovery
 https://neeplay.com/delta/discovery/api/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Infotainment;Discovery",Discovery Science
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Discovery;Infotainment",Discovery Science
 https://neeplay.com/delta/discovery/api/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="dmax" tvg-logo="https://i.imgur.com/kZbathj.png" group-title="Infotainment;Discovery",DMAX
+#EXTINF:-1 tvg-id="dmax" tvg-logo="https://i.imgur.com/kZbathj.png" group-title="Discovery;Infotainment",DMAX
 https://neeplay.com/delta/discovery/api/DMAX.m3u8
-#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://i.imgur.com/KLyal2t.png" group-title="Infotainment;Discovery",Discovery HD
+#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://i.imgur.com/KLyal2t.png" group-title="Discovery;Infotainment",Discovery HD
 https://neeplay.com/delta/discovery/api/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-id="tlc-hd-hindi" tvg-logo="https://i.imgur.com/zXNZqYa.png" group-title="Infotainment;Discovery",TLC HD Hindi
+#EXTINF:-1 tvg-id="tlc-hd-hindi" tvg-logo="https://i.imgur.com/zXNZqYa.png" group-title="Discovery;Infotainment",TLC HD Hindi
 https://neeplay.com/delta/discovery/api/TLC_Hindi.m3u8
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6IFnTBV.png" group-title="Infotainment;Discovery",Food Network
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6IFnTBV.png" group-title="Discovery;Infotainment",Food Network
 https://neeplay.com/delta/discovery/api/Food%20Network.m3u8
-#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://neeplay.com/wp-content/uploads/2021/05/histor18hd.webp" group-title="Infotainment;Discovery",History TV18 HD Hindi
+#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://neeplay.com/wp-content/uploads/2021/05/histor18hd.webp" group-title="Discovery;Infotainment",History TV18 HD Hindi
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Music;Punjabi",Balle Balle 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
 #EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music;Punjabi",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Movies;Comedy;Punjabi",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Punjabi;Movies;Comedy",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-punjab" https://rohitrehan.github.io/iptv/logos/tv-punjab.png group-title="Punjabi",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
@@ -75,8 +75,6 @@ http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="totally-teen" https://rohitrehan.github.io/iptv/logos/totally-teen.png group-title="Undefined",Totally Teen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3011d79f-9b94-4386-8a0a-53a1bea6724e
-#EXTINF:-1 tvg-id="PTCNews.in" tvg-logo="https://i.imgur.com/8BHV6Gr.png" group-title="Pt;News", News (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCQLEbraENUGWh6p1Rv664rQ.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="General",Gaunda Punjab TV
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-animals" https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png group-title="Undefined",Pluto TV Animals
@@ -391,6 +389,8 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
 #EXTINF:-1 tvg-id="-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে" https://rohitrehan.github.io/iptv/logos/-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে.png group-title="Cricket", স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-id="-pakistan-vs-australia-odi" https://rohitrehan.github.io/iptv/logos/-pakistan-vs-australia-odi.png group-title="Cricket", Pakistan VS Australia Odi
+https://cdn-bd.televisionbd.com/Fox-sports-501/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="-star-sports-1-hd-pakistan-vs-australia-odi" https://rohitrehan.github.io/iptv/logos/-star-sports-1-hd-pakistan-vs-australia-odi.png group-title="Cricket", Star-Sports-1-HD Pakistan VS Australia Odi
 https://cdn-bd.televisionbd.com/Star-Sports-1-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="-sky-sports-cricket" https://rohitrehan.github.io/iptv/logos/-sky-sports-cricket.png group-title="Cricket", SKY SPORTS Cricket
@@ -497,8 +497,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 #EXTINF:-1 tvg-id="bbc-news" https://rohitrehan.github.io/iptv/logos/bbc-news.png group-title="News internasional",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id="bbc-news" https://rohitrehan.github.io/iptv/logos/bbc-news.png group-title="News internasional",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-id="dw-english" https://rohitrehan.github.io/iptv/logos/dw-english.png group-title="News internasional",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-id="-fox-news-(au)-🛜" tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="", FOX News (AU) 🛜
