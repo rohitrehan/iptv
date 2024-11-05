@@ -26,20 +26,20 @@ https://neeplay.com/delta/discovery/api/Food%20Network.m3u8
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="love-nature" https://rohitrehan.github.io/iptv/logos/love-nature.png group-title="Infotainment;Discovery",Love Nature
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b844100_sleng.m3u8
-#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Music;Punjabi",Balle Balle 1
+#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Punjabi;Music",Balle Balle 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music;Punjabi",Balle Balle 2
+#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Punjabi;Music",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Music;Punjabi",Punjabi Hits
+#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Punjabi;Music",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
-#EXTINF:-1 tvg-id="ptc-dhol" https://rohitrehan.github.io/iptv/logos/ptc-dhol.png group-title="Music;Punjabi",PTC Dhol
+#EXTINF:-1 tvg-id="ptc-dhol" https://rohitrehan.github.io/iptv/logos/ptc-dhol.png group-title="Punjabi;Music",PTC Dhol
 #EXTVLCOPT:http-refferer=https://www.ptcplay.com/
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Music;Punjabi",9x Tashsan 1
+#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Punjabi;Music",9x Tashsan 1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Music;Punjabi",9x Tashsan 2
+#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Punjabi;Music",9x Tashsan 2
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Comedy;Movies;Punjabi",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Punjabi;Movies;Comedy",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="pitara-tv" https://rohitrehan.github.io/iptv/logos/pitara-tv.png group-title="Punjabi",Pitara TV
 https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
@@ -135,15 +135,15 @@ https://stream01.vnet.am/Boomerang/mono.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids;Nicktoon",UK (576p)
 https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids;Nic",Jr. East (720p)
+#EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Nic;Kids",Jr. East (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="nick-jr.-pluto-tv" https://rohitrehan.github.io/iptv/logos/nick-jr.-pluto-tv.png group-title="Undefined",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Kids;Nic",Jr. Pluto TV
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Nic;Kids",Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
-#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids;Nic",Jr. Poland (576i)
+#EXTINF:-1 tvg-id="NickJr.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Nic;Kids",Jr. Poland (576i)
 http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids;Nic",Jr. UK (1080p)
+#EXTINF:-1 tvg-id="NickJr.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Nic;Kids",Jr. UK (1080p)
 https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
 #EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music",Nick Music (480p)
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
@@ -255,8 +255,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?live=@livedeshtv
 #EXTINF:-1 tvg-id="asian-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png" group-title="",Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8
-#EXTINF:-1 tvg-id="-bongo-dramas" tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="",BONGO DRAMAS
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF:-1 tvg-id="kids-creation" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="channel-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png" group-title="",Channel 24
@@ -313,6 +311,8 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2" https://rohitrehan.github.io/iptv/logos/bein-sports-2.png group-title="Sports",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="astro-cricket" https://rohitrehan.github.io/iptv/logos/astro-cricket.png group-title="Sports",Astro Cricket
+http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
 #EXTINF:-1 tvg-id="mu-tv" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="mu-tv" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="",MU TV
@@ -413,8 +413,6 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-id="willow-cricbuzz" https://rohitrehan.github.io/iptv/logos/willow-cricbuzz.png group-title="Cricket",Willow Cricbuzz
 https://crichd.filofilmes.art/sexy.php/willowusa.m3u8
-#EXTINF:-1 tvg-id="willow-extra" https://rohitrehan.github.io/iptv/logos/willow-extra.png group-title="Cricket",Willow Extra
-https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
 #EXTINF:-1 tvg-id="-sky-sports-cricket" https://rohitrehan.github.io/iptv/logos/-sky-sports-cricket.png group-title="Cricket",SKY SPORTS Cricket
 https://fr.globalplay.live/Sports-1/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="-sky-sports-cricket" https://rohitrehan.github.io/iptv/logos/-sky-sports-cricket.png group-title="Cricket",SKY SPORTS Cricket
