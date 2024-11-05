@@ -1,45 +1,45 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source,# Please let us know. We respect your opinions and efforts, so we will not object to removing your source.
-#EXTINF:-1 tvg-id="animal-planet-hindi" https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png group-title="Infotainment;Discovery",Animal Planet hindi
+#EXTINF:-1 tvg-id="animal-planet-hindi" https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png group-title="Discovery;Infotainment",Animal Planet hindi
 https://neeplay.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8
-#EXTINF:-1 tvg-id="animal-planet" https://rohitrehan.github.io/iptv/logos/animal-planet.png group-title="Infotainment;Discovery",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet" https://rohitrehan.github.io/iptv/logos/animal-planet.png group-title="Discovery;Infotainment",Animal Planet
 https://neeplay.com/delta/discovery/api/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="discovery-hd-hindi" tvg-logo="https://i.imgur.com/OVIuZyY.png" group-title="Infotainment;Discovery",Discovery HD Hindi
+#EXTINF:-1 tvg-id="discovery-hd-hindi" tvg-logo="https://i.imgur.com/OVIuZyY.png" group-title="Discovery;Infotainment",Discovery HD Hindi
 https://neeplay.com/delta/discovery/api/Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="discovery-science-hindi" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Infotainment;Discovery",Discovery Science Hindi
+#EXTINF:-1 tvg-id="discovery-science-hindi" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Discovery;Infotainment",Discovery Science Hindi
 https://neeplay.com/delta/discovery/api/Discovery_Science_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery-hindi" tvg-logo="https://i.imgur.com/tWu1cHd.png" group-title="Infotainment;Discovery",Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="investigation-discovery-hindi" tvg-logo="https://i.imgur.com/tWu1cHd.png" group-title="Discovery;Infotainment",Investigation Discovery Hindi
 https://neeplay.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://i.imgur.com/W93YRf0.png" group-title="Infotainment;Discovery",Investigation Discovery
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://i.imgur.com/W93YRf0.png" group-title="Discovery;Infotainment",Investigation Discovery
 https://neeplay.com/delta/discovery/api/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Infotainment;Discovery",Discovery Science
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://i.imgur.com/9Kqq4Yb.png" group-title="Discovery;Infotainment",Discovery Science
 https://neeplay.com/delta/discovery/api/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="dmax" tvg-logo="https://i.imgur.com/kZbathj.png" group-title="Infotainment;Discovery",DMAX
+#EXTINF:-1 tvg-id="dmax" tvg-logo="https://i.imgur.com/kZbathj.png" group-title="Discovery;Infotainment",DMAX
 https://neeplay.com/delta/discovery/api/DMAX.m3u8
-#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://i.imgur.com/KLyal2t.png" group-title="Infotainment;Discovery",Discovery HD
+#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://i.imgur.com/KLyal2t.png" group-title="Discovery;Infotainment",Discovery HD
 https://neeplay.com/delta/discovery/api/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-id="tlc-hd-hindi" tvg-logo="https://i.imgur.com/zXNZqYa.png" group-title="Infotainment;Discovery",TLC HD Hindi
+#EXTINF:-1 tvg-id="tlc-hd-hindi" tvg-logo="https://i.imgur.com/zXNZqYa.png" group-title="Discovery;Infotainment",TLC HD Hindi
 https://neeplay.com/delta/discovery/api/TLC_Hindi.m3u8
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6IFnTBV.png" group-title="Infotainment;Discovery",Food Network
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://i.imgur.com/6IFnTBV.png" group-title="Discovery;Infotainment",Food Network
 https://neeplay.com/delta/discovery/api/Food%20Network.m3u8
-#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://neeplay.com/wp-content/uploads/2021/05/histor18hd.webp" group-title="Infotainment;Discovery",History TV18 HD Hindi
+#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://neeplay.com/wp-content/uploads/2021/05/histor18hd.webp" group-title="Discovery;Infotainment",History TV18 HD Hindi
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="love-nature" https://rohitrehan.github.io/iptv/logos/love-nature.png group-title="Infotainment;Discovery",Love Nature
+#EXTINF:-1 tvg-id="love-nature" https://rohitrehan.github.io/iptv/logos/love-nature.png group-title="Discovery;Infotainment",Love Nature
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b844100_sleng.m3u8
-#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Punjabi;Music",Balle Balle 1
+#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Music;Punjabi",Balle Balle 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Punjabi;Music",Balle Balle 2
+#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music;Punjabi",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Punjabi;Music",Punjabi Hits
+#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Music;Punjabi",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
-#EXTINF:-1 tvg-id="ptc-dhol" https://rohitrehan.github.io/iptv/logos/ptc-dhol.png group-title="Punjabi;Music",PTC Dhol
+#EXTINF:-1 tvg-id="ptc-dhol" https://rohitrehan.github.io/iptv/logos/ptc-dhol.png group-title="Music;Punjabi",PTC Dhol
 #EXTVLCOPT:http-refferer=https://www.ptcplay.com/
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Punjabi;Music",9x Tashsan 1
+#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Music;Punjabi",9x Tashsan 1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Punjabi;Music",9x Tashsan 2
+#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Music;Punjabi",9x Tashsan 2
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Punjabi;Movies;Comedy",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Comedy;Movies;Punjabi",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="pitara-tv" https://rohitrehan.github.io/iptv/logos/pitara-tv.png group-title="Punjabi",Pitara TV
 https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
@@ -159,6 +159,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f3-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ebc8c79-fdfa-4600-a1ab-63ff8d30ff13
 #EXTINF:-1 tvg-id="history" https://rohitrehan.github.io/iptv/logos/history.png group-title="Undefined",History
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="NickSpace.de" tvg-logo="https://i.imgur.com/DNzsCLg.png" group-title="Kids",Nick Space
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5260-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6835637-a922-4815-9f33-c332f95fd25c
 #EXTINF:-1 tvg-id="cinemania-hollywood-4k" https://rohitrehan.github.io/iptv/logos/cinemania-hollywood-4k.png group-title="",CINEMANIA HOLLYWOOD 4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=536727
 #EXTINF:-1 tvg-id="cinemania-bollywood-4k" https://rohitrehan.github.io/iptv/logos/cinemania-bollywood-4k.png group-title="",CINEMANIA BOLLYWOOD 4K
@@ -265,6 +267,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="-madani-tv" tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 tvg-id="god-tv" https://rohitrehan.github.io/iptv/logos/god-tv.png group-title="Relagion channel",God TV
+https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="-arihant-tv" https://rohitrehan.github.io/iptv/logos/-arihant-tv.png group-title="Relagion channel",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="-bongo-movies" tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png" group-title="",BONGO MOVIES
@@ -273,6 +277,8 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bong
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-id="sananda-tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU" group-title="",Sananda TV
 http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="calcutta-news" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="",Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="samay-kolkata" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="",Samay Kolkata
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 #EXTINF:-1 tvg-id="sony-kal" https://rohitrehan.github.io/iptv/logos/sony-kal.png group-title="Hindi",Sony Kal
@@ -295,6 +301,8 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="bollywood-classic-hd" https://rohitrehan.github.io/iptv/logos/bollywood-classic-hd.png group-title="Hindi movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="star-sports-1-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="eurosports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="",Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-id="ptv-sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png" group-title="",PTV Sports
@@ -426,7 +434,9 @@ https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/
 #EXTINF:-1 tvg-id="willow-cricbuzz" https://rohitrehan.github.io/iptv/logos/willow-cricbuzz.png group-title="Cricket",Willow Cricbuzz
 https://bdiptv24.com/sports/m3u8.php/willowusa.m3u8
 #EXTINF:-1 tvg-id="ptv-sports-🏏" https://rohitrehan.github.io/iptv/logos/ptv-sports-🏏.png group-title="Cricket",PTV Sports 🏏
-http://125.209.88.166:45793/BRN/PTVSports.stream/chunklist_w220167345.m3u8
+https://crichd.filofilmes.art/sexy.php/supercricket.m3u8
+#EXTINF:-1 tvg-id="ten-sports-pk" https://rohitrehan.github.io/iptv/logos/ten-sports-pk.png group-title="Cricket",Ten Sports PK
+https://crichd.filofilmes.art/sexy.php/tenspk.m3u8
 #EXTINF:-1 tvg-id="-ptv-sports-hd" tvg-logo="https://i.ibb.co/m93xNWV/download-6.jpg" group-title="",PTV Sports HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 #EXTINF:-1 tvg-id="-astro-cricket-hd" tvg-logo="https://i.ibb.co/v1kKv1f/download-4.png" group-title="",Astro Cricket HD
