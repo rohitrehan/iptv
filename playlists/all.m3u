@@ -1,161 +1,161 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source,# Please let us know. We respect your opinions and efforts, so we will not object to removing your source.
-#EXTINF:-1 tvg-id="animal-planet-hindi" https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png group-title="Discovery",Animal Planet hindi
+#EXTINF:-1 tvg-id="animal-planet-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png" group-title="Discovery",Animal Planet hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FAnimal_Planettv_Hindi.m3u8&id=12030&type=mp4
 https://neeplay.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8
-#EXTINF:-1 tvg-id="animal-planet" https://rohitrehan.github.io/iptv/logos/animal-planet.png group-title="Discovery",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://rohitrehan.github.io/iptv/logos/animal-planet.png" group-title="Discovery",Animal Planet
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FAnimal_Planet.m3u8&id=12027&type=mp4
 https://neeplay.com/delta/discovery/api/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="discovery-hd-hindi" https://rohitrehan.github.io/iptv/logos/discovery-hd-hindi.png group-title="Discovery",Discovery HD Hindi
+#EXTINF:-1 tvg-id="discovery-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-hd-hindi.png" group-title="Discovery",Discovery HD Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Hindi.m3u8&id=12051&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="discovery-science-hindi" https://rohitrehan.github.io/iptv/logos/discovery-science-hindi.png group-title="Discovery",Discovery Science Hindi
+#EXTINF:-1 tvg-id="discovery-science-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-science-hindi.png" group-title="Discovery",Discovery Science Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Science_Hindi.m3u8&id=809&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Science_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery-hindi" https://rohitrehan.github.io/iptv/logos/investigation-discovery-hindi.png group-title="Discovery",Investigation Discovery Hindi
+#EXTINF:-1 tvg-id="investigation-discovery-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/investigation-discovery-hindi.png" group-title="Discovery",Investigation Discovery Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FInvestigation_Discovery_Hindi.m3u8&id=12072&type=mp4
 https://neeplay.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery" https://rohitrehan.github.io/iptv/logos/investigation-discovery.png group-title="Discovery",Investigation Discovery
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://rohitrehan.github.io/iptv/logos/investigation-discovery.png" group-title="Discovery",Investigation Discovery
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FInvestigation_Discovery.m3u8&id=12075&type=mp4
 https://neeplay.com/delta/discovery/api/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="discovery-science" https://rohitrehan.github.io/iptv/logos/discovery-science.png group-title="Discovery",Discovery Science
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-science.png" group-title="Discovery",Discovery Science
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Science.m3u8&id=12060&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="dmax" https://rohitrehan.github.io/iptv/logos/dmax.png group-title="Discovery",DMAX
+#EXTINF:-1 tvg-id="dmax" tvg-logo="https://rohitrehan.github.io/iptv/logos/dmax.png" group-title="Discovery",DMAX
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDMAX.m3u8&id=12063&type=mp4
 https://neeplay.com/delta/discovery/api/DMAX.m3u8
-#EXTINF:-1 tvg-id="discovery-hd" https://rohitrehan.github.io/iptv/logos/discovery-hd.png group-title="Discovery",Discovery HD
+#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-hd.png" group-title="Discovery",Discovery HD
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Channel.m3u8&id=12054&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-id="discovery-turbo" https://rohitrehan.github.io/iptv/logos/discovery-turbo.png group-title="Discovery",Discovery Turbo
+#EXTINF:-1 tvg-id="discovery-turbo" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-turbo.png" group-title="Discovery",Discovery Turbo
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Turbo.m3u8&id=8950&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-id="tlc-hd" https://rohitrehan.github.io/iptv/logos/tlc-hd.png group-title="Discovery",TLC HD
+#EXTINF:-1 tvg-id="tlc-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/tlc-hd.png" group-title="Discovery",TLC HD
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FTLC.m3u8&id=12088&type=mp4
 https://neeplay.com/delta/discovery/api/TLC.m3u8
-#EXTINF:-1 tvg-id="hgtv" https://rohitrehan.github.io/iptv/logos/hgtv.png group-title="Discovery",HGTV
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://rohitrehan.github.io/iptv/logos/hgtv.png" group-title="Discovery",HGTV
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FHGTV.m3u8&id=12069&type=mp4
 https://neeplay.com/delta/discovery/api/HGTV.m3u8
-#EXTINF:-1 tvg-id="tlc-hd-hindi" https://rohitrehan.github.io/iptv/logos/tlc-hd-hindi.png group-title="Discovery",TLC HD Hindi
+#EXTINF:-1 tvg-id="tlc-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/tlc-hd-hindi.png" group-title="Discovery",TLC HD Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FTLC_Hindi.m3u8&id=1827&type=mp4
 https://neeplay.com/delta/discovery/api/TLC_Hindi.m3u8
-#EXTINF:-1 tvg-id="food-network" https://rohitrehan.github.io/iptv/logos/food-network.png group-title="Discovery",Food Network
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-network.png" group-title="Discovery",Food Network
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FFood%20Network.m3u8&id=8094&type=mp4
 https://neeplay.com/delta/discovery/api/Food%20Network.m3u8
-#EXTINF:-1 tvg-id="history-tv18-hd-hindi" https://rohitrehan.github.io/iptv/logos/history-tv18-hd-hindi.png group-title="Discovery",History TV18 HD Hindi
+#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/history-tv18-hd-hindi.png" group-title="Discovery",History TV18 HD Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="love-nature" https://rohitrehan.github.io/iptv/logos/love-nature.png group-title="Discovery",Love Nature
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://rohitrehan.github.io/iptv/logos/love-nature.png" group-title="Discovery",Love Nature
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b844100_sleng.m3u8
-#EXTINF:-1 tvg-id="discovery-kids-hindi" https://rohitrehan.github.io/iptv/logos/discovery-kids-hindi.png group-title="Kids",Discovery Kids Hindi
+#EXTINF:-1 tvg-id="discovery-kids-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-kids-hindi.png" group-title="Kids",Discovery Kids Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Kids_Hindi.m3u8&id=1822&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-#EXTINF:-1 tvg-id="balle-balle-1" https://rohitrehan.github.io/iptv/logos/balle-balle-1.png group-title="Music;Punjabi",Balle Balle 1
+#EXTINF:-1 tvg-id="balle-balle-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-1.png" group-title="Punjabi;Music",Balle Balle 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-id="balle-balle-2" https://rohitrehan.github.io/iptv/logos/balle-balle-2.png group-title="Music;Punjabi",Balle Balle 2
+#EXTINF:-1 tvg-id="balle-balle-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-2.png" group-title="Punjabi;Music",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="punjabi-hits" https://rohitrehan.github.io/iptv/logos/punjabi-hits.png group-title="Music;Punjabi",Punjabi Hits
+#EXTINF:-1 tvg-id="punjabi-hits" tvg-logo="https://rohitrehan.github.io/iptv/logos/punjabi-hits.png" group-title="Punjabi;Music",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
-#EXTINF:-1 tvg-id="ptc-dhol" https://rohitrehan.github.io/iptv/logos/ptc-dhol.png group-title="Music;Punjabi",PTC Dhol
+#EXTINF:-1 tvg-id="ptc-dhol" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-dhol.png" group-title="Punjabi;Music",PTC Dhol
 #EXTVLCOPT:http-refferer=https://www.ptcplay.com/
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-1" https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png group-title="Music;Punjabi",9x Tashsan 1
+#EXTINF:-1 tvg-id="9x-tashsan-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png" group-title="Punjabi;Music",9x Tashsan 1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-2" https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png group-title="Music;Punjabi",9x Tashsan 2
+#EXTINF:-1 tvg-id="9x-tashsan-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png" group-title="Punjabi;Music",9x Tashsan 2
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" https://rohitrehan.github.io/iptv/logos/pitara-comedy.png group-title="Movies;Punjabi;Comedy",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-comedy.png" group-title="Punjabi;Comedy;Movies",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-tv" https://rohitrehan.github.io/iptv/logos/pitara-tv.png group-title="Punjabi",Pitara TV
+#EXTINF:-1 tvg-id="pitara-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-tv.png" group-title="Punjabi",Pitara TV
 https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
-#EXTINF:-1 tvg-id="tv-punjab" https://rohitrehan.github.io/iptv/logos/tv-punjab.png group-title="Punjabi",TV Punjab
+#EXTINF:-1 tvg-id="tv-punjab" tvg-logo="https://rohitrehan.github.io/iptv/logos/tv-punjab.png" group-title="Punjabi",TV Punjab
 https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="kids-tv-india" https://rohitrehan.github.io/iptv/logos/kids-tv-india.png group-title="Kids",Kids TV India
+#EXTINF:-1 tvg-id="kids-tv-india" tvg-logo="https://rohitrehan.github.io/iptv/logos/kids-tv-india.png" group-title="Kids",Kids TV India
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
-#EXTINF:-1 tvg-id="kids-tv" https://rohitrehan.github.io/iptv/logos/kids-tv.png group-title="Kids",Kids TV
+#EXTINF:-1 tvg-id="kids-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/kids-tv.png" group-title="Kids",Kids TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
-#EXTINF:-1 tvg-id="hooray-rhymes" https://rohitrehan.github.io/iptv/logos/hooray-rhymes.png group-title="Kids",Hooray Rhymes
+#EXTINF:-1 tvg-id="hooray-rhymes" tvg-logo="https://rohitrehan.github.io/iptv/logos/hooray-rhymes.png" group-title="Kids",Hooray Rhymes
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/hooray-rhymes/00065bc2-7bc9-4f63-a95f-a2b0c6468d8c/0.m3u8
-#EXTINF:-1 tvg-id="cartoon-classics-tv" https://rohitrehan.github.io/iptv/logos/cartoon-classics-tv.png group-title="Kids",Cartoon Classics TV
+#EXTINF:-1 tvg-id="cartoon-classics-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/cartoon-classics-tv.png" group-title="Kids",Cartoon Classics TV
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/57770b9b-c1dc-42ad-900a-ccf4e05c9380/0.m3u8
-#EXTINF:-1 tvg-id="toonzkidz" https://rohitrehan.github.io/iptv/logos/toonzkidz.png group-title="Kids",ToonzKidz
+#EXTINF:-1 tvg-id="toonzkidz" tvg-logo="https://rohitrehan.github.io/iptv/logos/toonzkidz.png" group-title="Kids",ToonzKidz
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/ff780881-9ea9-45f6-a2c0-d485a94dced4/0.m3u8
-#EXTINF:-1 tvg-id="hoopla-kidz-tv" https://rohitrehan.github.io/iptv/logos/hoopla-kidz-tv.png group-title="Kids",Hoopla Kidz TV
+#EXTINF:-1 tvg-id="hoopla-kidz-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/hoopla-kidz-tv.png" group-title="Kids",Hoopla Kidz TV
 #EXTVLCOPT:http-referrer=https://colorsscreen.com/play.php?id=1780
 https://colorsscreen.com/live.php?id=1780&extension=.m3u8
-#EXTINF:-1 tvg-id="bbc-earth" https://rohitrehan.github.io/iptv/logos/bbc-earth.png group-title="Sony",BBC Earth
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://rohitrehan.github.io/iptv/logos/bbc-earth.png" group-title="Sony",BBC Earth
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=852
 https://keralamaxtv.com/sliv/stream.php?id=852
-#EXTINF:-1 tvg-id="sony-pix-1" https://rohitrehan.github.io/iptv/logos/sony-pix-1.png group-title="Sony",Sony Pix 1
+#EXTINF:-1 tvg-id="sony-pix-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-pix-1.png" group-title="Sony",Sony Pix 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=785
 https://keralamaxtv.com/sliv/stream.php?id=785
-#EXTINF:-1 tvg-id="sony-pix-2" https://rohitrehan.github.io/iptv/logos/sony-pix-2.png group-title="Sony",Sony Pix 2
+#EXTINF:-1 tvg-id="sony-pix-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-pix-2.png" group-title="Sony",Sony Pix 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=ea02096b0fbc&e=.m3u8
-#EXTINF:-1 tvg-id="sony-kal-hindi-1" https://rohitrehan.github.io/iptv/logos/sony-kal-hindi-1.png group-title="Sony",Sony Kal Hindi 1
+#EXTINF:-1 tvg-id="sony-kal-hindi-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi-1.png" group-title="Sony",Sony Kal Hindi 1
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="sony-kal-hindi-2" https://rohitrehan.github.io/iptv/logos/sony-kal-hindi-2.png group-title="Sony",Sony Kal Hindi 2
+#EXTINF:-1 tvg-id="sony-kal-hindi-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi-2.png" group-title="Sony",Sony Kal Hindi 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://dbrb49pjoymg4.cloudfront.net/10001/99951184/hls/playlist.m3u8?ads.xumo_channelId = 99951184
-#EXTINF:-1 tvg-id="sony-max-hd-1" https://rohitrehan.github.io/iptv/logos/sony-max-hd-1.png group-title="Sony",Sony Max HD 1
+#EXTINF:-1 tvg-id="sony-max-hd-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max-hd-1.png" group-title="Sony",Sony Max HD 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=878545
 https://keralamaxtv.com/sliv/stream.php?id=878545
-#EXTINF:-1 tvg-id="sony-max-hd-2" https://rohitrehan.github.io/iptv/logos/sony-max-hd-2.png group-title="Sony",Sony Max HD 2
+#EXTINF:-1 tvg-id="sony-max-hd-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max-hd-2.png" group-title="Sony",Sony Max HD 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=6a65854166f1&e=.m3u8
-#EXTINF:-1 tvg-id="sony-tv" https://rohitrehan.github.io/iptv/logos/sony-tv.png group-title="Sony",Sony TV
+#EXTINF:-1 tvg-id="sony-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-tv.png" group-title="Sony",Sony TV
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=2bec2112b890&e=.m3u8
-#EXTINF:-1 tvg-id="sony-tv-hd-1" https://rohitrehan.github.io/iptv/logos/sony-tv-hd-1.png group-title="Sony",Sony TV HD 1
+#EXTINF:-1 tvg-id="sony-tv-hd-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-tv-hd-1.png" group-title="Sony",Sony TV HD 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=1100
 https://keralamaxtv.com/sliv/stream.php?id=1100
-#EXTINF:-1 tvg-id="sony-tv-hd-2" https://rohitrehan.github.io/iptv/logos/sony-tv-hd-2.png group-title="Sony",Sony TV HD 2
+#EXTINF:-1 tvg-id="sony-tv-hd-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-tv-hd-2.png" group-title="Sony",Sony TV HD 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=243771d9592c&e=.m3u8
-#EXTINF:-1 tvg-id="sony-max-1" https://rohitrehan.github.io/iptv/logos/sony-max-1.png group-title="Sony",Sony Max 1
+#EXTINF:-1 tvg-id="sony-max-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max-1.png" group-title="Sony",Sony Max 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=96
 https://keralamaxtv.com/sliv/stream.php?id=96
-#EXTINF:-1 tvg-id="sony-max-2" https://rohitrehan.github.io/iptv/logos/sony-max-2.png group-title="Sony",Sony Max 2
+#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max-2.png" group-title="Sony",Sony Max 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=b6192dbff21b&e=.m3u8
-#EXTINF:-1 tvg-id="sony-max2-1" https://rohitrehan.github.io/iptv/logos/sony-max2-1.png group-title="Sony",Sony Max2 1
+#EXTINF:-1 tvg-id="sony-max2-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max2-1.png" group-title="Sony",Sony Max2 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=123
 https://keralamaxtv.com/sliv/stream.php?id=123
-#EXTINF:-1 tvg-id="sony-max2-2" https://rohitrehan.github.io/iptv/logos/sony-max2-2.png group-title="Sony",Sony Max2 2
+#EXTINF:-1 tvg-id="sony-max2-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max2-2.png" group-title="Sony",Sony Max2 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=420510be5c17&e=.m3u8
-#EXTINF:-1 tvg-id="sony-sab-hd-1" https://rohitrehan.github.io/iptv/logos/sony-sab-hd-1.png group-title="Sony",Sony Sab HD 1
+#EXTINF:-1 tvg-id="sony-sab-hd-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-sab-hd-1.png" group-title="Sony",Sony Sab HD 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=1201
 https://keralamaxtv.com/sliv/stream.php?id=1201
-#EXTINF:-1 tvg-id="sony-sab-hd-2" https://rohitrehan.github.io/iptv/logos/sony-sab-hd-2.png group-title="Sony",Sony Sab HD 2
+#EXTINF:-1 tvg-id="sony-sab-hd-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-sab-hd-2.png" group-title="Sony",Sony Sab HD 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=b7167fe646a4&e=.m3u8
-#EXTINF:-1 tvg-id="sony-wah-1" https://rohitrehan.github.io/iptv/logos/sony-wah-1.png group-title="Sony",Sony Wah 1
+#EXTINF:-1 tvg-id="sony-wah-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-wah-1.png" group-title="Sony",Sony Wah 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=75
 https://keralamaxtv.com/sliv/stream.php?id=75
-#EXTINF:-1 tvg-id="sony-wah-2" https://rohitrehan.github.io/iptv/logos/sony-wah-2.png group-title="Sony",Sony Wah 2
+#EXTINF:-1 tvg-id="sony-wah-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-wah-2.png" group-title="Sony",Sony Wah 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=ac21c8534679&e=.m3u8
-#EXTINF:-1 tvg-id="sony-yay-1" https://rohitrehan.github.io/iptv/logos/sony-yay-1.png group-title="Sony",Sony Yay 1
+#EXTINF:-1 tvg-id="sony-yay-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-yay-1.png" group-title="Sony",Sony Yay 1
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=168569
 https://keralamaxtv.com/sliv/stream.php?id=168569
-#EXTINF:-1 tvg-id="sony-yay-2" https://rohitrehan.github.io/iptv/logos/sony-yay-2.png group-title="Sony",Sony Yay 2
+#EXTINF:-1 tvg-id="sony-yay-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-yay-2.png" group-title="Sony",Sony Yay 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://bdixtv24.site/toffee/live.php?id=57bd9c2493c1&e=.m3u8
-#EXTINF:-1 tvg-id="sony-pal" https://rohitrehan.github.io/iptv/logos/sony-pal.png group-title="Sony",Sony Pal
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-pal.png" group-title="Sony",Sony Pal
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/play.php?id=1894
 https://keralamaxtv.com/sliv/stream.php?id=1894
-#EXTINF:-1 tvg-id="colors-hd-1" https://rohitrehan.github.io/iptv/logos/colors-hd-1.png group-title="Entertainment",Colors HD 1
+#EXTINF:-1 tvg-id="colors-hd-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/colors-hd-1.png" group-title="Entertainment",Colors HD 1
 #EXTVLCOPT:http-referrer=https://neestreamtv.com/fuck-your-mother-ass-jared-solomon/play.php?id=3694429
 https://neestreamtv.com/fuck-your-mother-ass-jared-solomon/stream.m3u8?id=3694429
-#EXTINF:-1 tvg-id="colors-hd-2" https://rohitrehan.github.io/iptv/logos/colors-hd-2.png group-title="Entertainment",Colors HD 2
+#EXTINF:-1 tvg-id="colors-hd-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/colors-hd-2.png" group-title="Entertainment",Colors HD 2
 #EXTVLCOPT:http-referrer=https://mhdlivetv.com/jiocinema/?play=3694429
 https://mhdlivetv.com/jiocinema/stream.m3u8?id=3694429
-#EXTINF:-1 tvg-id="colors-hd-3" https://rohitrehan.github.io/iptv/logos/colors-hd-3.png group-title="Entertainment",Colors HD 3
+#EXTINF:-1 tvg-id="colors-hd-3" tvg-logo="https://rohitrehan.github.io/iptv/logos/colors-hd-3.png" group-title="Entertainment",Colors HD 3
 #EXTVLCOPT:http-referrer=https://colorsscreen.com/play.php?id=144
 https://colorsscreen.com/live.php?id=144&extension=.m3u8
-#EXTINF:-1 tvg-id="comedy-king" https://rohitrehan.github.io/iptv/logos/comedy-king.png group-title="Entertainment",Comedy King
+#EXTINF:-1 tvg-id="comedy-king" tvg-logo="https://rohitrehan.github.io/iptv/logos/comedy-king.png" group-title="Entertainment",Comedy King
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="apna-tv" tvg-logo="https://nowmeplay.com/wp-content/uploads/2022/02/APNA.webp" group-title="Pakistan",Apna TV
 https://vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8
@@ -175,185 +175,185 @@ https://mhdtvplay.com/aryzap/stream.m3u8?id=arymusik
 #EXTINF:-1 tvg-id="ary-zindagi" tvg-logo="https://nowmeplay.com/wp-content/uploads/2022/05/aryz.webp" group-title="Pakistan",Ary Zindagi
 #EXTVLCOPT:http-referrer=https://mhdtvplay.com/aryzap/play?id=zindagi
 https://mhdtvplay.com/aryzap/stream.m3u8?id=zindagi
-#EXTINF:-1 tvg-id="ftv-new-york" https://rohitrehan.github.io/iptv/logos/ftv-new-york.png group-title="Fashion",FTV New York
+#EXTINF:-1 tvg-id="ftv-new-york" tvg-logo="https://rohitrehan.github.io/iptv/logos/ftv-new-york.png" group-title="Fashion",FTV New York
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="nat-geo-wild" https://rohitrehan.github.io/iptv/logos/nat-geo-wild.png group-title="",Nat Geo Wild
+#EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://rohitrehan.github.io/iptv/logos/nat-geo-wild.png" group-title="",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-id="nat-geo-(finland)" https://rohitrehan.github.io/iptv/logos/nat-geo-(finland).png group-title="",Nat Geo (Finland)
+#EXTINF:-1 tvg-id="nat-geo-(finland)" tvg-logo="https://rohitrehan.github.io/iptv/logos/nat-geo-(finland).png" group-title="",Nat Geo (Finland)
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
-#EXTINF:-1 tvg-id="red-bull-tv" https://rohitrehan.github.io/iptv/logos/red-bull-tv.png group-title="",Red Bull TV
+#EXTINF:-1 tvg-id="red-bull-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/red-bull-tv.png" group-title="",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="cbs-sports-hq" https://rohitrehan.github.io/iptv/logos/cbs-sports-hq.png group-title="",CBS Sports HQ
+#EXTINF:-1 tvg-id="cbs-sports-hq" tvg-logo="https://rohitrehan.github.io/iptv/logos/cbs-sports-hq.png" group-title="",CBS Sports HQ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" https://rohitrehan.github.io/iptv/logos/cbs-sports-network-usa.png group-title="",CBS Sports Network USA
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-logo="https://rohitrehan.github.io/iptv/logos/cbs-sports-network-usa.png" group-title="",CBS Sports Network USA
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="tv9-bharatvarsh-(720p)" https://rohitrehan.github.io/iptv/logos/tv9-bharatvarsh-(720p).png group-title="",TV9 Bharatvarsh (720p)
+#EXTINF:-1 tvg-id="tv9-bharatvarsh-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/tv9-bharatvarsh-(720p).png" group-title="",TV9 Bharatvarsh (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="totally-teen" https://rohitrehan.github.io/iptv/logos/totally-teen.png group-title="",Totally Teen
+#EXTINF:-1 tvg-id="totally-teen" tvg-logo="https://rohitrehan.github.io/iptv/logos/totally-teen.png" group-title="",Totally Teen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3011d79f-9b94-4386-8a0a-53a1bea6724e
-#EXTINF:-1 tvg-id="ptc-chakde-(720p)" https://rohitrehan.github.io/iptv/logos/ptc-chakde-(720p).png group-title="",PTC Chakde (720p)
+#EXTINF:-1 tvg-id="ptc-chakde-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-chakde-(720p).png" group-title="",PTC Chakde (720p)
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ptc-music-(720p)" https://rohitrehan.github.io/iptv/logos/ptc-music-(720p).png group-title="",PTC Music (720p)
+#EXTINF:-1 tvg-id="ptc-music-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-music-(720p).png" group-title="",PTC Music (720p)
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ptc-punjabi-(720p)" https://rohitrehan.github.io/iptv/logos/ptc-punjabi-(720p).png group-title="",PTC Punjabi (720p)
+#EXTINF:-1 tvg-id="ptc-punjabi-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-punjabi-(720p).png" group-title="",PTC Punjabi (720p)
 https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ptc-punjabi-gold-(720p)" https://rohitrehan.github.io/iptv/logos/ptc-punjabi-gold-(720p).png group-title="",PTC Punjabi Gold (720p)
+#EXTINF:-1 tvg-id="ptc-punjabi-gold-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-punjabi-gold-(720p).png" group-title="",PTC Punjabi Gold (720p)
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ptc-simran-(720p)" https://rohitrehan.github.io/iptv/logos/ptc-simran-(720p).png group-title="",PTC Simran (720p)
+#EXTINF:-1 tvg-id="ptc-simran-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-simran-(720p).png" group-title="",PTC Simran (720p)
 https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="gaunda-punjab-tv" https://rohitrehan.github.io/iptv/logos/gaunda-punjab-tv.png group-title="",Gaunda Punjab TV
+#EXTINF:-1 tvg-id="gaunda-punjab-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/gaunda-punjab-tv.png" group-title="",Gaunda Punjab TV
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="pluto-tv-animals" https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png group-title="",Pluto TV Animals
+#EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f81-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c749ba3-753d-4787-aa99-051f1037b6b3
-#EXTINF:-1 tvg-id="pluto-tv-animals" https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png group-title="",Pluto TV Animals
+#EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f5d2e90-2471-4d92-b142-439cfc613cca
-#EXTINF:-1 tvg-id="pluto-tv-animals" https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png group-title="",Pluto TV Animals
+#EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
-#EXTINF:-1 tvg-id="pluto-tv-animals" https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png group-title="",Pluto TV Animals
+#EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac633-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ec05d93-5fee-4979-91ea-f6de241d3f06
-#EXTINF:-1 tvg-id="pluto-tv-animals-(england)-(720p)" https://rohitrehan.github.io/iptv/logos/pluto-tv-animals-(england)-(720p).png group-title="",Pluto TV Animals (England) (720p)
+#EXTINF:-1 tvg-id="pluto-tv-animals-(england)-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals-(england)-(720p).png" group-title="",Pluto TV Animals (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&ppName=web&appStoreUrl=&appVersion=DNT&a}p_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
-#EXTINF:-1 tvg-id="pet-collective" https://rohitrehan.github.io/iptv/logos/pet-collective.png group-title="",Pet Collective
+#EXTINF:-1 tvg-id="pet-collective" tvg-logo="https://rohitrehan.github.io/iptv/logos/pet-collective.png" group-title="",Pet Collective
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2
-#EXTINF:-1 tvg-id="nickelodeon-1" https://rohitrehan.github.io/iptv/logos/nickelodeon-1.png group-title="",Nickelodeon 1
+#EXTINF:-1 tvg-id="nickelodeon-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/nickelodeon-1.png" group-title="",Nickelodeon 1
 http://185.189.225.150:85/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon" https://rohitrehan.github.io/iptv/logos/nickelodeon.png group-title="",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://rohitrehan.github.io/iptv/logos/nickelodeon.png" group-title="",Nickelodeon
 http://31.148.48.15/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-east" https://rohitrehan.github.io/iptv/logos/nickelodeon-east.png group-title="",Nickelodeon East
+#EXTINF:-1 tvg-id="nickelodeon-east" tvg-logo="https://rohitrehan.github.io/iptv/logos/nickelodeon-east.png" group-title="",Nickelodeon East
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-en-español" https://rohitrehan.github.io/iptv/logos/nickelodeon-en-español.png group-title="",Nickelodeon en español
+#EXTINF:-1 tvg-id="nickelodeon-en-español" tvg-logo="https://rohitrehan.github.io/iptv/logos/nickelodeon-en-español.png" group-title="",Nickelodeon en español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
-#EXTINF:-1 tvg-id="nickelodeon-pluto-tv" https://rohitrehan.github.io/iptv/logos/nickelodeon-pluto-tv.png group-title="",Nickelodeon Pluto TV
+#EXTINF:-1 tvg-id="nickelodeon-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/nickelodeon-pluto-tv.png" group-title="",Nickelodeon Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
-#EXTINF:-1 tvg-id="-uk-(1080p)" https://rohitrehan.github.io/iptv/logos/-uk-(1080p).png group-title="",UK (1080p)
+#EXTINF:-1 tvg-id="-uk-(1080p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-uk-(1080p).png" group-title="",UK (1080p)
 https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 tvg-id="nicktoons" https://rohitrehan.github.io/iptv/logos/nicktoons.png group-title="",NickToons
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://rohitrehan.github.io/iptv/logos/nicktoons.png" group-title="",NickToons
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
-#EXTINF:-1 tvg-id="" https://rohitrehan.github.io/iptv/logos/.png group-title="",
+#EXTINF:-1 tvg-id="" tvg-logo="https://rohitrehan.github.io/iptv/logos/.png" group-title="",
 https://stream01.vnet.am/Boomerang/mono.m3u8
-#EXTINF:-1 tvg-id="-(720p)" https://rohitrehan.github.io/iptv/logos/-(720p).png group-title="",(720p)
+#EXTINF:-1 tvg-id="-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-(720p).png" group-title="",(720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="-uk-(576p)" https://rohitrehan.github.io/iptv/logos/-uk-(576p).png group-title="",UK (576p)
+#EXTINF:-1 tvg-id="-uk-(576p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-uk-(576p).png" group-title="",UK (576p)
 https://d20opqftbkv2z0.cloudfront.net/live13/nicktoons/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 tvg-id="-jr.-east-(720p)" https://rohitrehan.github.io/iptv/logos/-jr.-east-(720p).png group-title="",Jr. East (720p)
+#EXTINF:-1 tvg-id="-jr.-east-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-jr.-east-(720p).png" group-title="",Jr. East (720p)
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="nick-jr.-pluto-tv" https://rohitrehan.github.io/iptv/logos/nick-jr.-pluto-tv.png group-title="",Nick Jr. Pluto TV
+#EXTINF:-1 tvg-id="nick-jr.-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-jr.-pluto-tv.png" group-title="",Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb75c3afd1200079146a6/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f07-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08e1ba5b-febb-444b-927d-f017f608e57e
-#EXTINF:-1 tvg-id="-jr.-pluto-tv" https://rohitrehan.github.io/iptv/logos/-jr.-pluto-tv.png group-title="",Jr. Pluto TV
+#EXTINF:-1 tvg-id="-jr.-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-jr.-pluto-tv.png" group-title="",Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
-#EXTINF:-1 tvg-id="-jr.-poland-(576i)" https://rohitrehan.github.io/iptv/logos/-jr.-poland-(576i).png group-title="",Jr. Poland (576i)
+#EXTINF:-1 tvg-id="-jr.-poland-(576i)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-jr.-poland-(576i).png" group-title="",Jr. Poland (576i)
 http://178.219.128.68:64888/NICKJR
-#EXTINF:-1 tvg-id="-jr.-uk-(1080p)" https://rohitrehan.github.io/iptv/logos/-jr.-uk-(1080p).png group-title="",Jr. UK (1080p)
+#EXTINF:-1 tvg-id="-jr.-uk-(1080p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-jr.-uk-(1080p).png" group-title="",Jr. UK (1080p)
 https://d20opqftbkv2z0.cloudfront.net/live13/nickjr/bitrate1-clear.isml/live.m3u8
-#EXTINF:-1 tvg-id="nick-music-(480p)" https://rohitrehan.github.io/iptv/logos/nick-music-(480p).png group-title="",Nick Music (480p)
+#EXTINF:-1 tvg-id="nick-music-(480p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-music-(480p).png" group-title="",Nick Music (480p)
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="nick-pluto-tv" https://rohitrehan.github.io/iptv/logos/nick-pluto-tv.png group-title="",Nick Pluto TV
+#EXTINF:-1 tvg-id="nick-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-pluto-tv.png" group-title="",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f1166-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=13c43849-7db8-4ef1-bfef-74e513441e1a
-#EXTINF:-1 tvg-id="nick-pluto-tv" https://rohitrehan.github.io/iptv/logos/nick-pluto-tv.png group-title="",Nick Pluto TV
+#EXTINF:-1 tvg-id="nick-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-pluto-tv.png" group-title="",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb6a83c6e37000726823b/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f08-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c15d1002-05a1-4c9d-82b6-2c554bbbf97f
-#EXTINF:-1 tvg-id="nick-pluto-tv" https://rohitrehan.github.io/iptv/logos/nick-pluto-tv.png group-title="",Nick Pluto TV
+#EXTINF:-1 tvg-id="nick-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-pluto-tv.png" group-title="",Nick Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f2-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c0f9a61-5699-4476-a730-228053d9f6b6
-#EXTINF:-1 tvg-id="-pluto-tv" https://rohitrehan.github.io/iptv/logos/-pluto-tv.png group-title="",Pluto TV
+#EXTINF:-1 tvg-id="-pluto-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-pluto-tv.png" group-title="",Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b58-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d3f62f1d-7d8d-4d3f-a141-db9f502deb6b
-#EXTINF:-1 tvg-id="nick-space" https://rohitrehan.github.io/iptv/logos/nick-space.png group-title="",Nick Space
+#EXTINF:-1 tvg-id="nick-space" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-space.png" group-title="",Nick Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3870-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=049a72e8-4188-4f01-bc67-f697b36df6c5
-#EXTINF:-1 tvg-id="nick-space" https://rohitrehan.github.io/iptv/logos/nick-space.png group-title="",Nick Space
+#EXTINF:-1 tvg-id="nick-space" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-space.png" group-title="",Nick Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8504f3-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ebc8c79-fdfa-4600-a1ab-63ff8d30ff13
-#EXTINF:-1 tvg-id="history" https://rohitrehan.github.io/iptv/logos/history.png group-title="",History
+#EXTINF:-1 tvg-id="history" tvg-logo="https://rohitrehan.github.io/iptv/logos/history.png" group-title="",History
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="nick-space" https://rohitrehan.github.io/iptv/logos/nick-space.png group-title="",Nick Space
+#EXTINF:-1 tvg-id="nick-space" tvg-logo="https://rohitrehan.github.io/iptv/logos/nick-space.png" group-title="",Nick Space
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619b82cc70a9ba00074429e2/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5260-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6835637-a922-4815-9f33-c332f95fd25c
-#EXTINF:-1 tvg-id="cinemania-hollywood-4k" https://rohitrehan.github.io/iptv/logos/cinemania-hollywood-4k.png group-title="",CINEMANIA HOLLYWOOD 4K
+#EXTINF:-1 tvg-id="cinemania-hollywood-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/cinemania-hollywood-4k.png" group-title="",CINEMANIA HOLLYWOOD 4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=536727
-#EXTINF:-1 tvg-id="cinemania-bollywood-4k" https://rohitrehan.github.io/iptv/logos/cinemania-bollywood-4k.png group-title="",CINEMANIA BOLLYWOOD 4K
+#EXTINF:-1 tvg-id="cinemania-bollywood-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/cinemania-bollywood-4k.png" group-title="",CINEMANIA BOLLYWOOD 4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=536726
-#EXTINF:-1 tvg-id="in-||-&-tv-hd" https://rohitrehan.github.io/iptv/logos/in-||-&-tv-hd.png group-title="",IN || & TV HD
+#EXTINF:-1 tvg-id="in-||-&-tv-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-&-tv-hd.png" group-title="",IN || & TV HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56374
-#EXTINF:-1 tvg-id="in-||-&-tv-hd" https://rohitrehan.github.io/iptv/logos/in-||-&-tv-hd.png group-title="",IN || & TV-HD
+#EXTINF:-1 tvg-id="in-||-&-tv-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-&-tv-hd.png" group-title="",IN || & TV-HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56285
-#EXTINF:-1 tvg-id="in-||-&-tv-4k" https://rohitrehan.github.io/iptv/logos/in-||-&-tv-4k.png group-title="",IN || & TV-4K
+#EXTINF:-1 tvg-id="in-||-&-tv-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-&-tv-4k.png" group-title="",IN || & TV-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108237
-#EXTINF:-1 tvg-id="in-||-sony-hd" https://rohitrehan.github.io/iptv/logos/in-||-sony-hd.png group-title="",IN || SONY HD
+#EXTINF:-1 tvg-id="in-||-sony-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-hd.png" group-title="",IN || SONY HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56371
-#EXTINF:-1 tvg-id="in-||-sony-hd+" https://rohitrehan.github.io/iptv/logos/in-||-sony-hd+.png group-title="",IN || SONY HD+
+#EXTINF:-1 tvg-id="in-||-sony-hd+" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-hd+.png" group-title="",IN || SONY HD+
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56229
-#EXTINF:-1 tvg-id="in-||-sony-hd" https://rohitrehan.github.io/iptv/logos/in-||-sony-hd.png group-title="",IN || SONY-HD
+#EXTINF:-1 tvg-id="in-||-sony-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-hd.png" group-title="",IN || SONY-HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56252
-#EXTINF:-1 tvg-id="in-||-sony-4k" https://rohitrehan.github.io/iptv/logos/in-||-sony-4k.png group-title="",IN || SONY-4K
+#EXTINF:-1 tvg-id="in-||-sony-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-4k.png" group-title="",IN || SONY-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108250
-#EXTINF:-1 tvg-id="in-||-sony-hd-uk" https://rohitrehan.github.io/iptv/logos/in-||-sony-hd-uk.png group-title="",IN || SONY HD UK
+#EXTINF:-1 tvg-id="in-||-sony-hd-uk" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-hd-uk.png" group-title="",IN || SONY HD UK
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=101772
-#EXTINF:-1 tvg-id="in-||-sony-hd-|uk|" https://rohitrehan.github.io/iptv/logos/in-||-sony-hd-|uk|.png group-title="",IN || SONY-HD |UK|
+#EXTINF:-1 tvg-id="in-||-sony-hd-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-hd-|uk|.png" group-title="",IN || SONY-HD |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=87734
-#EXTINF:-1 tvg-id="in-||-star-bharat-hd" https://rohitrehan.github.io/iptv/logos/in-||-star-bharat-hd.png group-title="",IN || STAR BHARAT HD
+#EXTINF:-1 tvg-id="in-||-star-bharat-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-star-bharat-hd.png" group-title="",IN || STAR BHARAT HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56270
-#EXTINF:-1 tvg-id="in-||--star-bharat-hd" https://rohitrehan.github.io/iptv/logos/in-||--star-bharat-hd.png group-title="",IN ||  STAR BHARAT-HD
+#EXTINF:-1 tvg-id="in-||--star-bharat-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||--star-bharat-hd.png" group-title="",IN ||  STAR BHARAT-HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=87735
-#EXTINF:-1 tvg-id="in-||-star-bharat-4k" https://rohitrehan.github.io/iptv/logos/in-||-star-bharat-4k.png group-title="",IN || STAR BHARAT-4K
+#EXTINF:-1 tvg-id="in-||-star-bharat-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-star-bharat-4k.png" group-title="",IN || STAR BHARAT-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108252
-#EXTINF:-1 tvg-id="in-||-sony-sab-hd" https://rohitrehan.github.io/iptv/logos/in-||-sony-sab-hd.png group-title="",IN || SONY SAB HD
+#EXTINF:-1 tvg-id="in-||-sony-sab-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-sab-hd.png" group-title="",IN || SONY SAB HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56306
-#EXTINF:-1 tvg-id="in-||-colors-hd" https://rohitrehan.github.io/iptv/logos/in-||-colors-hd.png group-title="",IN || COLORS HD
+#EXTINF:-1 tvg-id="in-||-colors-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-colors-hd.png" group-title="",IN || COLORS HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56314
-#EXTINF:-1 tvg-id="in-||-colors-hd" https://rohitrehan.github.io/iptv/logos/in-||-colors-hd.png group-title="",IN || COLORS-HD
+#EXTINF:-1 tvg-id="in-||-colors-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-colors-hd.png" group-title="",IN || COLORS-HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56250
-#EXTINF:-1 tvg-id="in-||-colors-hd+" https://rohitrehan.github.io/iptv/logos/in-||-colors-hd+.png group-title="",IN || COLORS HD+
+#EXTINF:-1 tvg-id="in-||-colors-hd+" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-colors-hd+.png" group-title="",IN || COLORS HD+
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56279
-#EXTINF:-1 tvg-id="in-||-colors-4k" https://rohitrehan.github.io/iptv/logos/in-||-colors-4k.png group-title="",IN || COLORS-4K
+#EXTINF:-1 tvg-id="in-||-colors-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-colors-4k.png" group-title="",IN || COLORS-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108240
-#EXTINF:-1 tvg-id="in-||-colors-hd-|uk|" https://rohitrehan.github.io/iptv/logos/in-||-colors-hd-|uk|.png group-title="",IN || COLORS HD |UK|
+#EXTINF:-1 tvg-id="in-||-colors-hd-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-colors-hd-|uk|.png" group-title="",IN || COLORS HD |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56281
-#EXTINF:-1 tvg-id="in-||-colors-hd-|uk|" https://rohitrehan.github.io/iptv/logos/in-||-colors-hd-|uk|.png group-title="",IN || COLORS-HD |UK|
+#EXTINF:-1 tvg-id="in-||-colors-hd-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-colors-hd-|uk|.png" group-title="",IN || COLORS-HD |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=85665
-#EXTINF:-1 tvg-id="in-||-star-plus-hd" https://rohitrehan.github.io/iptv/logos/in-||-star-plus-hd.png group-title="",IN || STAR PLUS HD
+#EXTINF:-1 tvg-id="in-||-star-plus-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-star-plus-hd.png" group-title="",IN || STAR PLUS HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56269
-#EXTINF:-1 tvg-id="in-||-star-plus-hd" https://rohitrehan.github.io/iptv/logos/in-||-star-plus-hd.png group-title="",IN || STAR PLUS-HD
+#EXTINF:-1 tvg-id="in-||-star-plus-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-star-plus-hd.png" group-title="",IN || STAR PLUS-HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56313
-#EXTINF:-1 tvg-id="in-||-star-plus-4k" https://rohitrehan.github.io/iptv/logos/in-||-star-plus-4k.png group-title="",IN || STAR PLUS-4K
+#EXTINF:-1 tvg-id="in-||-star-plus-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-star-plus-4k.png" group-title="",IN || STAR PLUS-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108263
-#EXTINF:-1 tvg-id="in-||--star-plus-hd-|uk|" https://rohitrehan.github.io/iptv/logos/in-||--star-plus-hd-|uk|.png group-title="",IN ||  STAR PLUS HD |UK|
+#EXTINF:-1 tvg-id="in-||--star-plus-hd-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||--star-plus-hd-|uk|.png" group-title="",IN ||  STAR PLUS HD |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=87732
-#EXTINF:-1 tvg-id="in-||-star-plus-hd-|uk|" https://rohitrehan.github.io/iptv/logos/in-||-star-plus-hd-|uk|.png group-title="",IN || STAR PLUS-HD |UK|
+#EXTINF:-1 tvg-id="in-||-star-plus-hd-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-star-plus-hd-|uk|.png" group-title="",IN || STAR PLUS-HD |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=93208
-#EXTINF:-1 tvg-id="in-||-zee-tv-hd" https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-hd.png group-title="",IN || ZEE TV HD
+#EXTINF:-1 tvg-id="in-||-zee-tv-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-hd.png" group-title="",IN || ZEE TV HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56362
-#EXTINF:-1 tvg-id="in-||--zee-tv-hd" https://rohitrehan.github.io/iptv/logos/in-||--zee-tv-hd.png group-title="",IN ||  ZEE TV-HD
+#EXTINF:-1 tvg-id="in-||--zee-tv-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||--zee-tv-hd.png" group-title="",IN ||  ZEE TV-HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=87733
-#EXTINF:-1 tvg-id="in-||-zee-tv-4k" https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-4k.png group-title="",IN || ZEE TV-4K
+#EXTINF:-1 tvg-id="in-||-zee-tv-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-4k.png" group-title="",IN || ZEE TV-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108271
-#EXTINF:-1 tvg-id="in-||-zee-tv-|uk|" https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-|uk|.png group-title="",IN || ZEE TV |UK|
+#EXTINF:-1 tvg-id="in-||-zee-tv-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-|uk|.png" group-title="",IN || ZEE TV |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=94104
-#EXTINF:-1 tvg-id="in-||-zee-tv-|uk|" https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-|uk|.png group-title="",IN || ZEE-TV |UK|
+#EXTINF:-1 tvg-id="in-||-zee-tv-|uk|" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-zee-tv-|uk|.png" group-title="",IN || ZEE-TV |UK|
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56282
-#EXTINF:-1 tvg-id="in-||-national-geographic" https://rohitrehan.github.io/iptv/logos/in-||-national-geographic.png group-title="",IN || NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="in-||-national-geographic" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-national-geographic.png" group-title="",IN || NATIONAL GEOGRAPHIC
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56360
-#EXTINF:-1 tvg-id="in-||-national-geograpic-4k-(multi-audio)" https://rohitrehan.github.io/iptv/logos/in-||-national-geograpic-4k-(multi-audio).png group-title="",IN || NATIONAL GEOGRAPIC-4K (multi audio)
+#EXTINF:-1 tvg-id="in-||-national-geograpic-4k-(multi-audio)" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-national-geograpic-4k-(multi-audio).png" group-title="",IN || NATIONAL GEOGRAPIC-4K (multi audio)
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108247
-#EXTINF:-1 tvg-id="in-||-nat-geo-wild-hd" https://rohitrehan.github.io/iptv/logos/in-||-nat-geo-wild-hd.png group-title="",IN || NAT GEO WILD HD
+#EXTINF:-1 tvg-id="in-||-nat-geo-wild-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-nat-geo-wild-hd.png" group-title="",IN || NAT GEO WILD HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56241
-#EXTINF:-1 tvg-id="in-||-nat-geo-wild-4k-(multi-audio)" https://rohitrehan.github.io/iptv/logos/in-||-nat-geo-wild-4k-(multi-audio).png group-title="",IN || NAT GEO WILD-4K (multi audio)
+#EXTINF:-1 tvg-id="in-||-nat-geo-wild-4k-(multi-audio)" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-nat-geo-wild-4k-(multi-audio).png" group-title="",IN || NAT GEO WILD-4K (multi audio)
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108246
-#EXTINF:-1 tvg-id="in-||-animal-planet-4k-(multi-audio)" https://rohitrehan.github.io/iptv/logos/in-||-animal-planet-4k-(multi-audio).png group-title="",IN || ANIMAL PLANET-4K (multi audio)
+#EXTINF:-1 tvg-id="in-||-animal-planet-4k-(multi-audio)" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-animal-planet-4k-(multi-audio).png" group-title="",IN || ANIMAL PLANET-4K (multi audio)
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108238
-#EXTINF:-1 tvg-id="in-||-history-tv18-hd" https://rohitrehan.github.io/iptv/logos/in-||-history-tv18-hd.png group-title="",IN || HISTORY TV18 HD
+#EXTINF:-1 tvg-id="in-||-history-tv18-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-history-tv18-hd.png" group-title="",IN || HISTORY TV18 HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56323
-#EXTINF:-1 tvg-id="in-||-history-tv-4k-(multi-audio)" https://rohitrehan.github.io/iptv/logos/in-||-history-tv-4k-(multi-audio).png group-title="",IN || HISTORY TV-4K (multi audio)
+#EXTINF:-1 tvg-id="in-||-history-tv-4k-(multi-audio)" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-history-tv-4k-(multi-audio).png" group-title="",IN || HISTORY TV-4K (multi audio)
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108242
-#EXTINF:-1 tvg-id="in-||-discovery-hd" https://rohitrehan.github.io/iptv/logos/in-||-discovery-hd.png group-title="",IN || DISCOVERY HD
+#EXTINF:-1 tvg-id="in-||-discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-discovery-hd.png" group-title="",IN || DISCOVERY HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56248
-#EXTINF:-1 tvg-id="in-||-discovery-4k-(multi-audio)" https://rohitrehan.github.io/iptv/logos/in-||-discovery-4k-(multi-audio).png group-title="",IN || DISCOVERY-4K (multi audio)
+#EXTINF:-1 tvg-id="in-||-discovery-4k-(multi-audio)" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-discovery-4k-(multi-audio).png" group-title="",IN || DISCOVERY-4K (multi audio)
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108274
-#EXTINF:-1 tvg-id="in-||-sony-bbc-earth-hd" https://rohitrehan.github.io/iptv/logos/in-||-sony-bbc-earth-hd.png group-title="",IN || SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="in-||-sony-bbc-earth-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-bbc-earth-hd.png" group-title="",IN || SONY BBC EARTH HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56309
-#EXTINF:-1 tvg-id="in-||-sony-bbc-earth-4k-(multi-audio)" https://rohitrehan.github.io/iptv/logos/in-||-sony-bbc-earth-4k-(multi-audio).png group-title="",IN || SONY BBC EARTH-4K (multi audio)
+#EXTINF:-1 tvg-id="in-||-sony-bbc-earth-4k-(multi-audio)" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-sony-bbc-earth-4k-(multi-audio).png" group-title="",IN || SONY BBC EARTH-4K (multi audio)
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108257
-#EXTINF:-1 tvg-id="in-||-fox-life-hd-" https://rohitrehan.github.io/iptv/logos/in-||-fox-life-hd-.png group-title="",IN || FOX LIFE HD
+#EXTINF:-1 tvg-id="in-||-fox-life-hd-" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-fox-life-hd-.png" group-title="",IN || FOX LIFE HD
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=56333
-#EXTINF:-1 tvg-id="in-||-fox-life-4k" https://rohitrehan.github.io/iptv/logos/in-||-fox-life-4k.png group-title="",IN || FOX LIFE-4K
+#EXTINF:-1 tvg-id="in-||-fox-life-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/in-||-fox-life-4k.png" group-title="",IN || FOX LIFE-4K
 http://tgaadi-web.tech/portal/sg-iptv.php?watch=108241
-#EXTINF:-1 tvg-id="live" https://rohitrehan.github.io/iptv/logos/live.png group-title="Live sports",Live
+#EXTINF:-1 tvg-id="live" tvg-logo="https://rohitrehan.github.io/iptv/logos/live.png" group-title="Live sports",Live
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-id="live" https://rohitrehan.github.io/iptv/logos/live.png group-title="Live sports",Live
+#EXTINF:-1 tvg-id="live" tvg-logo="https://rohitrehan.github.io/iptv/logos/live.png" group-title="Live sports",Live
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="t-sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="",T Sports
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
@@ -365,26 +365,24 @@ https://fredflix.xyz/ctc/bz.php?id=https://live-cdn.tsports.com/live-02/master_1
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="satv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="",SATV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="deepto-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="bijoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png" group-title="",Bijoy TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="boishakhi-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="",Boishakhi TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nexus-tv-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="",Nexus TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="channel-s-uk-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="",Channel S UK HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="-bongo-dramas" tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="",BONGO DRAMAS
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF:-1 tvg-id="kids-creation" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="somoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="",Somoy TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg" group-title="",Jamuna TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="",News 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="jago-news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="",Jago News 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ekhone-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png" group-title="",Ekhone TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="atn-music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="-peace-tv-english" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="",Peace TV English
@@ -397,11 +395,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="-makkah-tv" tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="",Makkah TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="-al-sunnah-tv" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="",AL Sunnah TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="god-tv" https://rohitrehan.github.io/iptv/logos/god-tv.png group-title="Relagion channel",God TV
+#EXTINF:-1 tvg-id="god-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/god-tv.png" group-title="Relagion channel",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
-#EXTINF:-1 tvg-id="-arihant-tv" https://rohitrehan.github.io/iptv/logos/-arihant-tv.png group-title="Relagion channel",Arihant TV
+#EXTINF:-1 tvg-id="-arihant-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-arihant-tv.png" group-title="Relagion channel",Arihant TV
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="-bongo-movies" tvg-logo="https://i.ibb.co.com/b5VkjPc/20240907-023057.png" group-title="",BONGO MOVIES
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
@@ -411,21 +407,21 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="samay-kolkata" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="",Samay Kolkata
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
-#EXTINF:-1 tvg-id="dd-national" https://rohitrehan.github.io/iptv/logos/dd-national.png group-title="Hindi",DD National
+#EXTINF:-1 tvg-id="dd-national" tvg-logo="https://rohitrehan.github.io/iptv/logos/dd-national.png" group-title="Hindi",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 tvg-id="the-movie-club" https://rohitrehan.github.io/iptv/logos/the-movie-club.png group-title="Hindi movies",The Movie Club
+#EXTINF:-1 tvg-id="the-movie-club" tvg-logo="https://rohitrehan.github.io/iptv/logos/the-movie-club.png" group-title="Hindi movies",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 tvg-id="-south-station" https://rohitrehan.github.io/iptv/logos/-south-station.png group-title="Hindi movies",South Station
+#EXTINF:-1 tvg-id="-south-station" tvg-logo="https://rohitrehan.github.io/iptv/logos/-south-station.png" group-title="Hindi movies",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="sheemaroo-bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="joo-music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="bollywood-prime" https://rohitrehan.github.io/iptv/logos/bollywood-prime.png group-title="Hindi movies",BOLLYWOOD PRIME
+#EXTINF:-1 tvg-id="bollywood-prime" tvg-logo="https://rohitrehan.github.io/iptv/logos/bollywood-prime.png" group-title="Hindi movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-#EXTINF:-1 tvg-id="bollywood-hd" https://rohitrehan.github.io/iptv/logos/bollywood-hd.png group-title="Hindi movies",Bollywood HD
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/bollywood-hd.png" group-title="Hindi movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-#EXTINF:-1 tvg-id="bollywood-classic-hd" https://rohitrehan.github.io/iptv/logos/bollywood-classic-hd.png group-title="Hindi movies",Bollywood Classic HD
+#EXTINF:-1 tvg-id="bollywood-classic-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/bollywood-classic-hd.png" group-title="Hindi movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="sony-sports-ten-1-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png" group-title="",Sony Sports Ten 1 HD
 https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8
@@ -443,19 +439,19 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ten-sports-pk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png" group-title="",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" https://rohitrehan.github.io/iptv/logos/bein-sports-1.png group-title="Sports",Bein Sports 1
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/bein-sports-1.png" group-title="Sports",Bein Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2" https://rohitrehan.github.io/iptv/logos/bein-sports-2.png group-title="Sports",Bein Sports 2
+#EXTINF:-1 tvg-id="bein-sports-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/bein-sports-2.png" group-title="Sports",Bein Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="sports-tv-1" https://rohitrehan.github.io/iptv/logos/sports-tv-1.png group-title="Sports",Sports TV 1
+#EXTINF:-1 tvg-id="sports-tv-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/sports-tv-1.png" group-title="Sports",Sports TV 1
 http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
-#EXTINF:-1 tvg-id="sports-tv-2" https://rohitrehan.github.io/iptv/logos/sports-tv-2.png group-title="Sports",Sports TV 2
+#EXTINF:-1 tvg-id="sports-tv-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sports-tv-2.png" group-title="Sports",Sports TV 2
 http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
-#EXTINF:-1 tvg-id="sports-tv-3" https://rohitrehan.github.io/iptv/logos/sports-tv-3.png group-title="Sports",Sports TV 3
+#EXTINF:-1 tvg-id="sports-tv-3" tvg-logo="https://rohitrehan.github.io/iptv/logos/sports-tv-3.png" group-title="Sports",Sports TV 3
 http://216.227.145.114:8000/SPORT_TV3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sports-tv-4" https://rohitrehan.github.io/iptv/logos/sports-tv-4.png group-title="Sports",Sports TV 4
+#EXTINF:-1 tvg-id="sports-tv-4" tvg-logo="https://rohitrehan.github.io/iptv/logos/sports-tv-4.png" group-title="Sports",Sports TV 4
 http://216.227.145.114:8000/SPORT_TV4/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sports-tv-5" https://rohitrehan.github.io/iptv/logos/sports-tv-5.png group-title="Sports",Sports TV 5
+#EXTINF:-1 tvg-id="sports-tv-5" tvg-logo="https://rohitrehan.github.io/iptv/logos/sports-tv-5.png" group-title="Sports",Sports TV 5
 http://216.227.145.114:8000/SPORT_TV5/index.m3u8?token=test
 #EXTINF:-1 tvg-id="mu-tv" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
@@ -473,25 +469,23 @@ https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #EXTINF:-1 tvg-id="tlc-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png" group-title="",TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-#EXTINF:-1 tvg-id="nat-geo-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="",Nat Geo HD
-http://103.110.110.11:8081/live/NGC/playlist.m3u8
-#EXTINF:-1 tvg-id="wild-earth" https://rohitrehan.github.io/iptv/logos/wild-earth.png group-title="Information",Wild Earth
+#EXTINF:-1 tvg-id="wild-earth" tvg-logo="https://rohitrehan.github.io/iptv/logos/wild-earth.png" group-title="Information",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="4k-travel" https://rohitrehan.github.io/iptv/logos/4k-travel.png group-title="Information",4K Travel
+#EXTINF:-1 tvg-id="4k-travel" tvg-logo="https://rohitrehan.github.io/iptv/logos/4k-travel.png" group-title="Information",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="trave-channel" https://rohitrehan.github.io/iptv/logos/trave-channel.png group-title="Information",Trave Channel
+#EXTINF:-1 tvg-id="trave-channel" tvg-logo="https://rohitrehan.github.io/iptv/logos/trave-channel.png" group-title="Information",Trave Channel
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-id="love-nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="love-nature-uhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="",Love Nature UHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="dmax" https://rohitrehan.github.io/iptv/logos/dmax.png group-title="Information",DMAX
+#EXTINF:-1 tvg-id="dmax" tvg-logo="https://rohitrehan.github.io/iptv/logos/dmax.png" group-title="Information",DMAX
 https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
-#EXTINF:-1 tvg-id="food-network" https://rohitrehan.github.io/iptv/logos/food-network.png group-title="Information",Food Network
+#EXTINF:-1 tvg-id="food-network" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-network.png" group-title="Information",Food Network
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 tvg-id="food-food" https://rohitrehan.github.io/iptv/logos/food-food.png group-title="Information",Food Food
+#EXTINF:-1 tvg-id="food-food" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-food.png" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
-#EXTINF:-1 tvg-id="discover-pakistan-tv" https://rohitrehan.github.io/iptv/logos/discover-pakistan-tv.png group-title="Information",Discover Pakistan TV
+#EXTINF:-1 tvg-id="discover-pakistan-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/discover-pakistan-tv.png" group-title="Information",Discover Pakistan TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="",Nick
 https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
@@ -499,17 +493,15 @@ https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
 http://103.110.110.11:8081/live/NickJR/playlist.m3u8
 #EXTINF:-1 tvg-id="pogo" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg" group-title="",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="zoo-moo" https://rohitrehan.github.io/iptv/logos/zoo-moo.png group-title="Kids",Zoo Moo
+#EXTINF:-1 tvg-id="zoo-moo" tvg-logo="https://rohitrehan.github.io/iptv/logos/zoo-moo.png" group-title="Kids",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="gubbare" https://rohitrehan.github.io/iptv/logos/gubbare.png group-title="Kids",Gubbare
+#EXTINF:-1 tvg-id="gubbare" tvg-logo="https://rohitrehan.github.io/iptv/logos/gubbare.png" group-title="Kids",Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 tvg-id="jungle-book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 tvg-id="hbo" https://rohitrehan.github.io/iptv/logos/hbo.png group-title="English movies",HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="action-hollywood-movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="hindi-hits-hd" https://rohitrehan.github.io/iptv/logos/hindi-hits-hd.png group-title="Hindi music",Hindi Hits HD
+#EXTINF:-1 tvg-id="hindi-hits-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/hindi-hits-hd.png" group-title="Hindi music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="9xm" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" group-title="",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
@@ -517,9 +509,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 #EXTINF:-1 tvg-id="e24" tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="8xm" https://rohitrehan.github.io/iptv/logos/8xm.png group-title="Hindi music",8XM
+#EXTINF:-1 tvg-id="8xm" tvg-logo="https://rohitrehan.github.io/iptv/logos/8xm.png" group-title="Hindi music",8XM
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="show-box" https://rohitrehan.github.io/iptv/logos/show-box.png group-title="Hindi music",Show Box
+#EXTINF:-1 tvg-id="show-box" tvg-logo="https://rohitrehan.github.io/iptv/logos/show-box.png" group-title="Hindi music",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-id="music-india" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
@@ -527,111 +519,107 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="bbc-world" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png" group-title="",BBC World
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn" https://rohitrehan.github.io/iptv/logos/cnn.png group-title="English news",CNN
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://rohitrehan.github.io/iptv/logos/cnn.png" group-title="English news",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="cgtn-news" https://rohitrehan.github.io/iptv/logos/cgtn-news.png group-title="English news",CGTN News
+#EXTINF:-1 tvg-id="cgtn-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/cgtn-news.png" group-title="English news",CGTN News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="dw-naws" https://rohitrehan.github.io/iptv/logos/dw-naws.png group-title="English news",DW Naws
+#EXTINF:-1 tvg-id="dw-naws" tvg-logo="https://rohitrehan.github.io/iptv/logos/dw-naws.png" group-title="English news",DW Naws
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="fox-news-now" https://rohitrehan.github.io/iptv/logos/fox-news-now.png group-title="English news",Fox News Now
+#EXTINF:-1 tvg-id="fox-news-now" tvg-logo="https://rohitrehan.github.io/iptv/logos/fox-news-now.png" group-title="English news",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="rt-now" https://rohitrehan.github.io/iptv/logos/rt-now.png group-title="English news",RT Now
+#EXTINF:-1 tvg-id="rt-now" tvg-logo="https://rohitrehan.github.io/iptv/logos/rt-now.png" group-title="English news",RT Now
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="sky-news" https://rohitrehan.github.io/iptv/logos/sky-news.png group-title="English news",Sky News
+#EXTINF:-1 tvg-id="sky-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/sky-news.png" group-title="English news",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 tvg-id="tofan" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE0MGVkOTEtYTQzMC00ZGQ5LWEzN2ItZGNkMTgzOTg3MDI2XkEyXkFqcGdeQXVyMTMyMTM0Mzcz._V1_FMjpg_UX1000_.jpg" group-title="",Tofan
 https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
-#EXTINF:-1 tvg-id="animal_planet" https://rohitrehan.github.io/iptv/logos/animal_planet.png group-title="Live tv",Animal_Planet
+#EXTINF:-1 tvg-id="animal_planet" tvg-logo="https://rohitrehan.github.io/iptv/logos/animal_planet.png" group-title="Live tv",Animal_Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="madani-channel" https://rohitrehan.github.io/iptv/logos/madani-channel.png group-title="Live tv",Madani Channel
+#EXTINF:-1 tvg-id="madani-channel" tvg-logo="https://rohitrehan.github.io/iptv/logos/madani-channel.png" group-title="Live tv",Madani Channel
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
-#EXTINF:-1 tvg-id="-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে" https://rohitrehan.github.io/iptv/logos/-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে.png group-title="Cricket",স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+#EXTINF:-1 tvg-id="-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে" tvg-logo="https://rohitrehan.github.io/iptv/logos/-স্পাইস-fm-radio-মোবাইল-লক-করা-অবস্থায়ও-চলতে-থাকবে.png" group-title="Cricket",স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-id="-tnt-sports-1" https://rohitrehan.github.io/iptv/logos/-tnt-sports-1.png group-title="Cricket",TNT Sports 1
+#EXTINF:-1 tvg-id="-tnt-sports-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tnt-sports-1.png" group-title="Cricket",TNT Sports 1
 https://cricfyranahin.xyz/nontu/bee.m3u8?TNT_Sports_1
-#EXTINF:-1 tvg-id="willow_extra_live_tv" https://rohitrehan.github.io/iptv/logos/willow_extra_live_tv.png group-title="Cricket",Willow_Extra_Live_TV
+#EXTINF:-1 tvg-id="willow_extra_live_tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/willow_extra_live_tv.png" group-title="Cricket",Willow_Extra_Live_TV
 https://cricfyranahin.xyz/nontu/bee.m3u8?Willow_Extra_Live_TV
-#EXTINF:-1 tvg-id="-astro-cricket" https://rohitrehan.github.io/iptv/logos/-astro-cricket.png group-title="Cricket",Astro Cricket
+#EXTINF:-1 tvg-id="-astro-cricket" tvg-logo="https://rohitrehan.github.io/iptv/logos/-astro-cricket.png" group-title="Cricket",Astro Cricket
 https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1 tvg-id="-sports-18-hd" https://rohitrehan.github.io/iptv/logos/-sports-18-hd.png group-title="Cricket",Sports 18-HD
+#EXTINF:-1 tvg-id="-sports-18-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-sports-18-hd.png" group-title="Cricket",Sports 18-HD
 https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="-tnt-sports-2-🇧🇩" https://rohitrehan.github.io/iptv/logos/-tnt-sports-2-🇧🇩.png group-title="Cricket",TnT Sports 2 🇧🇩
+#EXTINF:-1 tvg-id="-tnt-sports-2-🇧🇩" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tnt-sports-2-🇧🇩.png" group-title="Cricket",TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
-#EXTINF:-1 tvg-id="tnt-sports-3" https://rohitrehan.github.io/iptv/logos/tnt-sports-3.png group-title="Cricket",TnT Sports 3
+#EXTINF:-1 tvg-id="tnt-sports-3" tvg-logo="https://rohitrehan.github.io/iptv/logos/tnt-sports-3.png" group-title="Cricket",TnT Sports 3
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
-#EXTINF:-1 tvg-id="fast-studios-womens-sports" https://rohitrehan.github.io/iptv/logos/fast-studios-womens-sports.png group-title="Cricket",Fast-Studios-Womens-Sports
+#EXTINF:-1 tvg-id="fast-studios-womens-sports" tvg-logo="https://rohitrehan.github.io/iptv/logos/fast-studios-womens-sports.png" group-title="Cricket",Fast-Studios-Womens-Sports
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
-#EXTINF:-1 tvg-id="-wild-nature" https://rohitrehan.github.io/iptv/logos/-wild-nature.png group-title="Cricket",Wild Nature
+#EXTINF:-1 tvg-id="-wild-nature" tvg-logo="https://rohitrehan.github.io/iptv/logos/-wild-nature.png" group-title="Cricket",Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="-4k-nature" https://rohitrehan.github.io/iptv/logos/-4k-nature.png group-title="Cricket",4k Nature
+#EXTINF:-1 tvg-id="-4k-nature" tvg-logo="https://rohitrehan.github.io/iptv/logos/-4k-nature.png" group-title="Cricket",4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
-#EXTINF:-1 tvg-id="-gxr-world-🇮🇳" https://rohitrehan.github.io/iptv/logos/-gxr-world-🇮🇳.png group-title="Cricket",GXR WORLD 🇮🇳
+#EXTINF:-1 tvg-id="-gxr-world-🇮🇳" tvg-logo="https://rohitrehan.github.io/iptv/logos/-gxr-world-🇮🇳.png" group-title="Cricket",GXR WORLD 🇮🇳
 https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-#EXTINF:-1 tvg-id="ptv-sports-🏏" https://rohitrehan.github.io/iptv/logos/ptv-sports-🏏.png group-title="Cricket",PTV Sports 🏏
-https://crichd.filofilmes.art/sexy.php/supercricket.m3u8
-#EXTINF:-1 tvg-id="ten-sports-pk" https://rohitrehan.github.io/iptv/logos/ten-sports-pk.png group-title="Cricket",Ten Sports PK
-https://crichd.filofilmes.art/sexy.php/tenspk.m3u8
-#EXTINF:-1 tvg-id="-redbull-tv" https://rohitrehan.github.io/iptv/logos/-redbull-tv.png group-title="Cricket",Redbull TV
+#EXTINF:-1 tvg-id="-redbull-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-redbull-tv.png" group-title="Cricket",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="-live-sports-football-laliga" https://rohitrehan.github.io/iptv/logos/-live-sports-football-laliga.png group-title="Football",Live Sports Football Laliga
+#EXTINF:-1 tvg-id="-live-sports-football-laliga" tvg-logo="https://rohitrehan.github.io/iptv/logos/-live-sports-football-laliga.png" group-title="Football",Live Sports Football Laliga
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1" https://rohitrehan.github.io/iptv/logos/bein-sports-1.png group-title="Football",BeiN Sports 1
+#EXTINF:-1 tvg-id="bein-sports-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/bein-sports-1.png" group-title="Football",BeiN Sports 1
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1 tvg-id="live-sports-football" https://rohitrehan.github.io/iptv/logos/live-sports-football.png group-title="Football",Live Sports Football
+#EXTINF:-1 tvg-id="live-sports-football" tvg-logo="https://rohitrehan.github.io/iptv/logos/live-sports-football.png" group-title="Football",Live Sports Football
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 tvg-id="tyc-sports-play" https://rohitrehan.github.io/iptv/logos/tyc-sports-play.png group-title="Football",TYC Sports Play
+#EXTINF:-1 tvg-id="tyc-sports-play" tvg-logo="https://rohitrehan.github.io/iptv/logos/tyc-sports-play.png" group-title="Football",TYC Sports Play
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
-#EXTINF:-1 tvg-id="sport-italia" https://rohitrehan.github.io/iptv/logos/sport-italia.png group-title="Football",Sport italia
+#EXTINF:-1 tvg-id="sport-italia" tvg-logo="https://rohitrehan.github.io/iptv/logos/sport-italia.png" group-title="Football",Sport italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sport-italia" https://rohitrehan.github.io/iptv/logos/sport-italia.png group-title="Football",Sport Italia
+#EXTINF:-1 tvg-id="sport-italia" tvg-logo="https://rohitrehan.github.io/iptv/logos/sport-italia.png" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-id="-vtc-1-hd-🏆" tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="",VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
-#EXTINF:-1 tvg-id="-bein-sports-extra" https://rohitrehan.github.io/iptv/logos/-bein-sports-extra.png group-title="Football",BeiN Sports Extra
+#EXTINF:-1 tvg-id="-bein-sports-extra" tvg-logo="https://rohitrehan.github.io/iptv/logos/-bein-sports-extra.png" group-title="Football",BeiN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="accu-weather" https://rohitrehan.github.io/iptv/logos/accu-weather.png group-title="Infotainment channels",ACCU WEATHER
+#EXTINF:-1 tvg-id="accu-weather" tvg-logo="https://rohitrehan.github.io/iptv/logos/accu-weather.png" group-title="Infotainment channels",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id="-xplore-tv" https://rohitrehan.github.io/iptv/logos/-xplore-tv.png group-title="Infotainment channels",Xplore TV
+#EXTINF:-1 tvg-id="-xplore-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-xplore-tv.png" group-title="Infotainment channels",Xplore TV
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="-sony-bbc-earth-hd" tvg-logo="https://i.ibb.co/3rYngJk/Sony-BBC-Earth.png" group-title="",SONY BBC EARTH HD
 https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
-#EXTINF:-1 tvg-id="food-food" https://rohitrehan.github.io/iptv/logos/food-food.png group-title="Infotainment channels",FOOD FOOD
+#EXTINF:-1 tvg-id="food-food" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-food.png" group-title="Infotainment channels",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?v=1
-#EXTINF:-1 tvg-id="-discovery-hd" https://rohitrehan.github.io/iptv/logos/-discovery-hd.png group-title="Infotainment channels",Discovery HD
+#EXTINF:-1 tvg-id="-discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd.png" group-title="Infotainment channels",Discovery HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="-discovery-hd" https://rohitrehan.github.io/iptv/logos/-discovery-hd.png group-title="Infotainment channels",Discovery HD
+#EXTINF:-1 tvg-id="-discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd.png" group-title="Infotainment channels",Discovery HD
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 tvg-id="-discovery-hd-b" https://rohitrehan.github.io/iptv/logos/-discovery-hd-b.png group-title="Infotainment channels",Discovery HD B
+#EXTINF:-1 tvg-id="-discovery-hd-b" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd-b.png" group-title="Infotainment channels",Discovery HD B
 https://freeott.site/discovery/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-id="-tlc-(l*)" https://rohitrehan.github.io/iptv/logos/-tlc-(l*).png group-title="Infotainment channels",TLC (L*)
+#EXTINF:-1 tvg-id="-tlc-(l*)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-(l*).png" group-title="Infotainment channels",TLC (L*)
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
-#EXTINF:-1 tvg-id="-tlc-hd" https://rohitrehan.github.io/iptv/logos/-tlc-hd.png group-title="Infotainment channels",TLC HD
+#EXTINF:-1 tvg-id="-tlc-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-hd.png" group-title="Infotainment channels",TLC HD
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 tvg-id="-tlc-english" https://rohitrehan.github.io/iptv/logos/-tlc-english.png group-title="Infotainment channels",TLC English
+#EXTINF:-1 tvg-id="-tlc-english" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-english.png" group-title="Infotainment channels",TLC English
 https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
 #EXTINF:-1 tvg-id="-animal-planet-hd" tvg-logo="https://i.ibb.co/MV3xv1y/download-1.png" group-title="",Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 tvg-id="-animal-planet-hd" https://rohitrehan.github.io/iptv/logos/-animal-planet-hd.png group-title="Infotainment channels",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="-animal-planet-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-animal-planet-hd.png" group-title="Infotainment channels",ANIMAL PLANET HD
 https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
-#EXTINF:-1 tvg-id="-animal-planet-hd" https://rohitrehan.github.io/iptv/logos/-animal-planet-hd.png group-title="Infotainment channels",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="-animal-planet-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-animal-planet-hd.png" group-title="Infotainment channels",ANIMAL PLANET HD
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_22.m3u8
-#EXTINF:-1 tvg-id="-travel-channel" https://rohitrehan.github.io/iptv/logos/-travel-channel.png group-title="Infotainment channels",Travel Channel
+#EXTINF:-1 tvg-id="-travel-channel" tvg-logo="https://rohitrehan.github.io/iptv/logos/-travel-channel.png" group-title="Infotainment channels",Travel Channel
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-#EXTINF:-1 tvg-id="-travel-channel" https://rohitrehan.github.io/iptv/logos/-travel-channel.png group-title="Infotainment channels",Travel Channel
+#EXTINF:-1 tvg-id="-travel-channel" tvg-logo="https://rohitrehan.github.io/iptv/logos/-travel-channel.png" group-title="Infotainment channels",Travel Channel
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id="-love-nature-4k" https://rohitrehan.github.io/iptv/logos/-love-nature-4k.png group-title="Infotainment channels",Love Nature 4K
+#EXTINF:-1 tvg-id="-love-nature-4k" tvg-logo="https://rohitrehan.github.io/iptv/logos/-love-nature-4k.png" group-title="Infotainment channels",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="-asian-food-network" tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="",Asian Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-id="-asian-food-network" tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png" group-title="",Asian Food Network
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-#EXTINF:-1 tvg-id="food-food" https://rohitrehan.github.io/iptv/logos/food-food.png group-title="Infotainment channels",Food Food
+#EXTINF:-1 tvg-id="food-food" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-food.png" group-title="Infotainment channels",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?ads.rnd=__CmBanglaavel__&ads.env_i=__env.i_
-#EXTINF:-1 tvg-id="cnn-news" https://rohitrehan.github.io/iptv/logos/cnn-news.png group-title="News internasional",CNN News
+#EXTINF:-1 tvg-id="cnn-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/cnn-news.png" group-title="News internasional",CNN News
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
-#EXTINF:-1 tvg-id="bbc-news" https://rohitrehan.github.io/iptv/logos/bbc-news.png group-title="News internasional",BBC News
+#EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/bbc-news.png" group-title="News internasional",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id="dw-english" https://rohitrehan.github.io/iptv/logos/dw-english.png group-title="News internasional",DW English
+#EXTINF:-1 tvg-id="dw-english" tvg-logo="https://rohitrehan.github.io/iptv/logos/dw-english.png" group-title="News internasional",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-id="-fox-news-(au)-🛜" tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="",FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -643,7 +631,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="-cgtn-news-(en)-🛜" tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="",CGTN News (EN) 🛜
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="iran-international(en)-🛜" https://rohitrehan.github.io/iptv/logos/iran-international(en)-🛜.png group-title="News internasional",Iran International(EN) 🛜
+#EXTINF:-1 tvg-id="iran-international(en)-🛜" tvg-logo="https://rohitrehan.github.io/iptv/logos/iran-international(en)-🛜.png" group-title="News internasional",Iran International(EN) 🛜
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="-aljazeera-hd-backup-🛜" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="",Aljazeera HD Backup 🛜
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
