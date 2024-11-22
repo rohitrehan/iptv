@@ -51,20 +51,20 @@ https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b84
 #EXTINF:-1 tvg-id="discovery-kids-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-kids-hindi.png" group-title="Kids",Discovery Kids Hindi
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Kids_Hindi.m3u8&id=1822&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-#EXTINF:-1 tvg-id="balle-balle-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-1.png" group-title="Punjabi;Music",Balle Balle 1
+#EXTINF:-1 tvg-id="balle-balle-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-1.png" group-title="Punjabi",Balle Balle 1
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-id="balle-balle-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-2.png" group-title="Punjabi;Music",Balle Balle 2
+#EXTINF:-1 tvg-id="balle-balle-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-2.png" group-title="Punjabi",Balle Balle 2
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="punjabi-hits" tvg-logo="https://rohitrehan.github.io/iptv/logos/punjabi-hits.png" group-title="Punjabi;Music",Punjabi Hits
+#EXTINF:-1 tvg-id="punjabi-hits" tvg-logo="https://rohitrehan.github.io/iptv/logos/punjabi-hits.png" group-title="Punjabi",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
-#EXTINF:-1 tvg-id="ptc-dhol" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-dhol.png" group-title="Punjabi;Music",PTC Dhol
+#EXTINF:-1 tvg-id="ptc-dhol" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-dhol.png" group-title="Punjabi",PTC Dhol
 #EXTVLCOPT:http-refferer=https://www.ptcplay.com/
 https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png" group-title="Punjabi;Music",9x Tashsan 1
+#EXTINF:-1 tvg-id="9x-tashsan-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png" group-title="Punjabi",9x Tashsan 1
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png" group-title="Punjabi;Music",9x Tashsan 2
+#EXTINF:-1 tvg-id="9x-tashsan-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png" group-title="Punjabi",9x Tashsan 2
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-comedy.png" group-title="Comedy;Punjabi;Movies",Pitara Comedy
+#EXTINF:-1 tvg-id="pitara-comedy" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-comedy.png" group-title="Punjabi",Pitara Comedy
 https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="pitara-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-tv.png" group-title="Punjabi",Pitara TV
 https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
@@ -148,41 +148,41 @@ https://mhdtvplay.com/aryzap/stream.m3u8?id=zindagi
 #EXTINF:-1 tvg-id="ftv-new-york" tvg-logo="https://rohitrehan.github.io/iptv/logos/ftv-new-york.png" group-title="Fashion",FTV New York
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sgpc,-sri-amritsar" tvg-logo="https://rohitrehan.github.io/iptv/logos/sgpc,-sri-amritsar.png" group-title="Youtube",SGPC, Sri Amritsar
-https://youtube-hls-2.rehan.workers.dev/?v=cLNy3ivGN2k
+http://172.70.10.25:9000/youtube/hls?v=cLNy3ivGN2k
 #EXTINF:-1 tvg-id="classic-mr-bean" tvg-logo="https://rohitrehan.github.io/iptv/logos/classic-mr-bean.png" group-title="Youtube",Classic Mr Bean
-https://youtube-hls-2.rehan.workers.dev/?v=uTMc48XmjrA
+http://172.70.10.25:9000/youtube/hls?v=uTMc48XmjrA
 #EXTINF:-1 tvg-id="boomerang-uk" tvg-logo="https://rohitrehan.github.io/iptv/logos/boomerang-uk.png" group-title="Youtube",Boomerang UK
-https://youtube-hls-2.rehan.workers.dev/?v=IJbbpAhjboI
+http://172.70.10.25:9000/youtube/hls?v=IJbbpAhjboI
 #EXTINF:-1 tvg-id="english-speeches" tvg-logo="https://rohitrehan.github.io/iptv/logos/english-speeches.png" group-title="Youtube",English Speeches
-https://youtube-hls-2.rehan.workers.dev/?v=OSXxqH9j8NY
+http://172.70.10.25:9000/youtube/hls?v=OSXxqH9j8NY
 #EXTINF:-1 tvg-id="peppa-pig---official-channel" tvg-logo="https://rohitrehan.github.io/iptv/logos/peppa-pig---official-channel.png" group-title="Youtube",Peppa Pig - Official Channel
-https://youtube-hls-2.rehan.workers.dev/?v=XweDG5Kk8Ng
+http://172.70.10.25:9000/youtube/hls?v=XweDG5Kk8Ng
 #EXTINF:-1 tvg-id="nat-geo-animals-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/nat-geo-animals-1.png" group-title="Youtube",Nat Geo Animals 1
-https://youtube-hls-2.rehan.workers.dev/?v=BJ3Yv572V1A
+http://172.70.10.25:9000/youtube/hls?v=BJ3Yv572V1A
 #EXTINF:-1 tvg-id="nat-geo-animals-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/nat-geo-animals-2.png" group-title="Youtube",Nat Geo Animals 2
-https://youtube-hls-2.rehan.workers.dev/?v=PLR6KdmyTho
+http://172.70.10.25:9000/youtube/hls?v=PLR6KdmyTho
 #EXTINF:-1 tvg-id="explore-ocean" tvg-logo="https://rohitrehan.github.io/iptv/logos/explore-ocean.png" group-title="Youtube",Explore Ocean
-https://youtube-hls-2.rehan.workers.dev/?v=OAJF1Ie1m_Q
+http://172.70.10.25:9000/youtube/hls?v=OAJF1Ie1m_Q
 #EXTINF:-1 tvg-id="soothing-soul" tvg-logo="https://rohitrehan.github.io/iptv/logos/soothing-soul.png" group-title="Youtube",Soothing Soul
-https://youtube-hls-2.rehan.workers.dev/?v=wKg71lcs5Nw
+http://172.70.10.25:9000/youtube/hls?v=wKg71lcs5Nw
 #EXTINF:-1 tvg-id="peaceful-relaxation" tvg-logo="https://rohitrehan.github.io/iptv/logos/peaceful-relaxation.png" group-title="Youtube",Peaceful Relaxation
-https://youtube-hls-2.rehan.workers.dev/?v=Gw4bRy4SoK0
+http://172.70.10.25:9000/youtube/hls?v=Gw4bRy4SoK0
 #EXTINF:-1 tvg-id="coffee-shop-ambience-jazz" tvg-logo="https://rohitrehan.github.io/iptv/logos/coffee-shop-ambience-jazz.png" group-title="Youtube",Coffee Shop Ambience Jazz
-https://youtube-hls-2.rehan.workers.dev/?v=xEFqGtw0dRM
+http://172.70.10.25:9000/youtube/hls?v=xEFqGtw0dRM
 #EXTINF:-1 tvg-id="spacedust-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/spacedust-1.png" group-title="Youtube",Spacedust 1
-https://youtube-hls-2.rehan.workers.dev/?v=cXRsIb1WTHY
+http://172.70.10.25:9000/youtube/hls?v=cXRsIb1WTHY
 #EXTINF:-1 tvg-id="spacedust-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/spacedust-2.png" group-title="Youtube",Spacedust 2
-https://youtube-hls-2.rehan.workers.dev/?v=lhF6lhuAjB4
+http://172.70.10.25:9000/youtube/hls?v=lhF6lhuAjB4
 #EXTINF:-1 tvg-id="science-max" tvg-logo="https://rohitrehan.github.io/iptv/logos/science-max.png" group-title="Youtube",Science Max
-https://youtube-hls-2.rehan.workers.dev/?v=akcb9nuDLB8
+http://172.70.10.25:9000/youtube/hls?v=akcb9nuDLB8
 #EXTINF:-1 tvg-id="mystery-science-theater-3000" tvg-logo="https://rohitrehan.github.io/iptv/logos/mystery-science-theater-3000.png" group-title="Youtube",Mystery Science Theater 3000
-https://youtube-hls-2.rehan.workers.dev/?v=Mxe9ZXGbR6g
+http://172.70.10.25:9000/youtube/hls?v=Mxe9ZXGbR6g
 #EXTINF:-1 tvg-id="sankhnath-entertainment" tvg-logo="https://rohitrehan.github.io/iptv/logos/sankhnath-entertainment.png" group-title="Youtube",Sankhnath Entertainment
-https://youtube-hls-2.rehan.workers.dev/?v=_c28quhfmvg
+http://172.70.10.25:9000/youtube/hls?v=_c28quhfmvg
 #EXTINF:-1 tvg-id="dhananjay-ias-academy" tvg-logo="https://rohitrehan.github.io/iptv/logos/dhananjay-ias-academy.png" group-title="Youtube",Dhananjay IAS Academy
-https://youtube-hls-2.rehan.workers.dev/?v=oq8GXANXv4M
+http://172.70.10.25:9000/youtube/hls?v=oq8GXANXv4M
 #EXTINF:-1 tvg-id="all-rounder-bss" tvg-logo="https://rohitrehan.github.io/iptv/logos/all-rounder-bss.png" group-title="Youtube",ALL ROUNDER BSS
-https://youtube-hls-2.rehan.workers.dev/?v=g0l1BmjnpBk
+http://172.70.10.25:9000/youtube/hls?v=g0l1BmjnpBk
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://rohitrehan.github.io/iptv/logos/nat-geo-wild.png" group-title="",Nat Geo Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="nat-geo-(finland)" tvg-logo="https://rohitrehan.github.io/iptv/logos/nat-geo-(finland).png" group-title="",Nat Geo (Finland)
@@ -279,28 +279,28 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-id="ntv-uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="",RTV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="satv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="",SATV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="deepto-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="bijoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png" group-title="",Bijoy TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="boishakhi-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png" group-title="",Boishakhi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nexus-tv-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="",Nexus TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="channel-s-uk-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="",Channel S UK HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="-bongo-dramas" tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="",BONGO DRAMAS
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas
 #EXTINF:-1 tvg-id="kids-creation" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="somoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="",Somoy TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="jamuna-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg" group-title="",Jamuna TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="",News 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ekhone-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png" group-title="",Ekhone TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="jago-news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="",Jago News 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="atn-music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="-peace-tv-english" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="",Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="-peace-tv-urdu" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="",Peace TV Urdu
@@ -333,6 +333,8 @@ https://la.drmlive.au/tp/zee-zeeaction.m3u8
 https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1 tvg-id="sheemaroo-bollywood" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="joo-music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bollywood-prime" tvg-logo="https://rohitrehan.github.io/iptv/logos/bollywood-prime.png" group-title="Hindi movies",BOLLYWOOD PRIME
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/bollywood-hd.png" group-title="Hindi movies",Bollywood HD
@@ -393,6 +395,8 @@ https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 tvg-id="food-food" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-food.png" group-title="Information",Food Food
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
+#EXTINF:-1 tvg-id="discover-pakistan-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/discover-pakistan-tv.png" group-title="Information",Discover Pakistan TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="",Nick
 https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
 #EXTINF:-1 tvg-id="nick-jr" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="",Nick JR
@@ -487,6 +491,8 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 #EXTINF:-1 tvg-id="-xplore-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-xplore-tv.png" group-title="Infotainment channels",Xplore TV
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="-sony-bbc-earth-hd" tvg-logo="https://i.ibb.co/3rYngJk/Sony-BBC-Earth.png" group-title="",SONY BBC EARTH HD
+https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
 #EXTINF:-1 tvg-id="food-food" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-food.png" group-title="Infotainment channels",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8?v=1
 #EXTINF:-1 tvg-id="-discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd.png" group-title="Infotainment channels",Discovery HD
@@ -541,251 +547,251 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1 tvg-id="-aljazeera-hd-backup-🛜v" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="",Aljazeera HD Backup 🛜v
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-id="e-vidya-1" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 1
-https://youtube-hls-2.rehan.workers.dev/?v=Pk6mrptz0Og
-#EXTINF:-1 tvg-id="e-vidya-2" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 2
-https://youtube-hls-2.rehan.workers.dev/?v=86yYAt-4zsE
-#EXTINF:-1 tvg-id="e-vidya-3" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 3
-https://youtube-hls-2.rehan.workers.dev/?v=tdu2FduHpio
-#EXTINF:-1 tvg-id="e-vidya-4" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 4
-https://youtube-hls-2.rehan.workers.dev/?v=7oZfQFHmL8w
-#EXTINF:-1 tvg-id="e-vidya-5" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 5
-https://youtube-hls-2.rehan.workers.dev/?v=s7m41yY2GWU
-#EXTINF:-1 tvg-id="e-vidya-6" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 6
-https://youtube-hls-2.rehan.workers.dev/?v=RGQEBfxTrQA
-#EXTINF:-1 tvg-id="e-vidya-7" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 7
-https://youtube-hls-2.rehan.workers.dev/?v=hGydxMVGmTU
-#EXTINF:-1 tvg-id="e-vidya-8" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 8
-https://youtube-hls-2.rehan.workers.dev/?v=QyDCwEb1KKU
-#EXTINF:-1 tvg-id="e-vidya-9" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 9
-https://youtube-hls-2.rehan.workers.dev/?v=y2a2RgTFXYE
-#EXTINF:-1 tvg-id="e-vidya-10" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 10
-https://youtube-hls-2.rehan.workers.dev/?v=7Mb-tl2O9AI
-#EXTINF:-1 tvg-id="e-vidya-11" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 11
-https://youtube-hls-2.rehan.workers.dev/?v=LPFh2PMVSdg
-#EXTINF:-1 tvg-id="e-vidya-12" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 12
-https://youtube-hls-2.rehan.workers.dev/?v=IfQ4TtUfDCI
-#EXTINF:-1 tvg-id="e-vidya-13" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 13
-https://youtube-hls-2.rehan.workers.dev/?v=1yTaMmHfaSo
-#EXTINF:-1 tvg-id="e-vidya-14" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 14
-https://youtube-hls-2.rehan.workers.dev/?v=TCa4u-FzDNY
-#EXTINF:-1 tvg-id="e-vidya-15" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 15
-https://youtube-hls-2.rehan.workers.dev/?v=CUshnH7Ej6E
-#EXTINF:-1 tvg-id="e-vidya-16" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 16
-https://youtube-hls-2.rehan.workers.dev/?v=iW5fTZDdZgE
-#EXTINF:-1 tvg-id="e-vidya-17" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 17
-https://youtube-hls-2.rehan.workers.dev/?v=QKaGXauCaTo
-#EXTINF:-1 tvg-id="e-vidya-18" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 18
-https://youtube-hls-2.rehan.workers.dev/?v=FS4OJOl7ORw
-#EXTINF:-1 tvg-id="e-vidya-19" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 19
-https://youtube-hls-2.rehan.workers.dev/?v=V8uwgbz2PfQ
-#EXTINF:-1 tvg-id="e-vidya-20" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 20
-https://youtube-hls-2.rehan.workers.dev/?v=HlHTOz5mZ3Y
-#EXTINF:-1 tvg-id="e-vidya-21" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 21
-https://youtube-hls-2.rehan.workers.dev/?v=wxJ63Tb1rDA
-#EXTINF:-1 tvg-id="e-vidya-22" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 22
-https://youtube-hls-2.rehan.workers.dev/?v=QxUau8Q4FdI
-#EXTINF:-1 tvg-id="e-vidya-23" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 23
-https://youtube-hls-2.rehan.workers.dev/?v=GnRKs1ePiTk
-#EXTINF:-1 tvg-id="e-vidya-24" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 24
-https://youtube-hls-2.rehan.workers.dev/?v=b1cjkSIW3H8
-#EXTINF:-1 tvg-id="e-vidya-25" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 25
-https://youtube-hls-2.rehan.workers.dev/?v=hfjkh68KrMM
-#EXTINF:-1 tvg-id="e-vidya-26" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 26
-https://youtube-hls-2.rehan.workers.dev/?v=MyH7LLqBIHA
-#EXTINF:-1 tvg-id="e-vidya-27" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 27
-https://youtube-hls-2.rehan.workers.dev/?v=Y0RVtqgQ5F8
-#EXTINF:-1 tvg-id="e-vidya-28" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 28
-https://youtube-hls-2.rehan.workers.dev/?v=JYwEnsp3zyE
-#EXTINF:-1 tvg-id="e-vidya-29" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 29
-https://youtube-hls-2.rehan.workers.dev/?v=_wCKHk8m8yM
-#EXTINF:-1 tvg-id="e-vidya-30" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 30
-https://youtube-hls-2.rehan.workers.dev/?v=AdSGNRx6OE8
-#EXTINF:-1 tvg-id="e-vidya-32" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 32
-https://youtube-hls-2.rehan.workers.dev/?v=8ojvYCyw6Ro
-#EXTINF:-1 tvg-id="e-vidya-33" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 33
-https://youtube-hls-2.rehan.workers.dev/?v=N5Znv1yd4C4
-#EXTINF:-1 tvg-id="e-vidya-34" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 34
-https://youtube-hls-2.rehan.workers.dev/?v=8n6Jberi0BA
-#EXTINF:-1 tvg-id="e-vidya-36" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 36
-https://youtube-hls-2.rehan.workers.dev/?v=RaSOdn_BIcY
-#EXTINF:-1 tvg-id="e-vidya-37" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 37
-https://youtube-hls-2.rehan.workers.dev/?v=O42PtSLM4ps
-#EXTINF:-1 tvg-id="e-vidya-38" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 38
-https://youtube-hls-2.rehan.workers.dev/?v=DgKVCa0fgmY
-#EXTINF:-1 tvg-id="e-vidya-39" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 39
-https://youtube-hls-2.rehan.workers.dev/?v=DTL2l1_QCf4
-#EXTINF:-1 tvg-id="e-vidya-40" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 40
-https://youtube-hls-2.rehan.workers.dev/?v=1EZKfhvptQo
-#EXTINF:-1 tvg-id="e-vidya-41" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 41
-https://youtube-hls-2.rehan.workers.dev/?v=Qc7FRXyM3yA
-#EXTINF:-1 tvg-id="e-vidya-42" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 42
-https://youtube-hls-2.rehan.workers.dev/?v=ORzKRmZmlgs
-#EXTINF:-1 tvg-id="e-vidya-43" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 43
-https://youtube-hls-2.rehan.workers.dev/?v=Wz6GxecZYK8
-#EXTINF:-1 tvg-id="e-vidya-44" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 44
-https://youtube-hls-2.rehan.workers.dev/?v=-lNV8YYlA1E
-#EXTINF:-1 tvg-id="e-vidya-45" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 45
-https://youtube-hls-2.rehan.workers.dev/?v=D6-34NuGAmQ
-#EXTINF:-1 tvg-id="e-vidya-46" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 46
-https://youtube-hls-2.rehan.workers.dev/?v=YEcKUQxjSv8
-#EXTINF:-1 tvg-id="e-vidya-47" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 47
-https://youtube-hls-2.rehan.workers.dev/?v=lw9Ix3O03WY
-#EXTINF:-1 tvg-id="e-vidya-48" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 48
-https://youtube-hls-2.rehan.workers.dev/?v=aFWQwfw_zX8
-#EXTINF:-1 tvg-id="e-vidya-50" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 50
-https://youtube-hls-2.rehan.workers.dev/?v=2pw-uGHkAkA
-#EXTINF:-1 tvg-id="e-vidya-51" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 51
-https://youtube-hls-2.rehan.workers.dev/?v=2k-6shkrpkg
-#EXTINF:-1 tvg-id="e-vidya-52" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 52
-https://youtube-hls-2.rehan.workers.dev/?v=enoRjI2oHxM
-#EXTINF:-1 tvg-id="e-vidya-53" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 53
-https://youtube-hls-2.rehan.workers.dev/?v=wjeMRkHBuSE
-#EXTINF:-1 tvg-id="e-vidya-54" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 54
-https://youtube-hls-2.rehan.workers.dev/?v=dDqzrcxxrJk
-#EXTINF:-1 tvg-id="e-vidya-55" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 55
-https://youtube-hls-2.rehan.workers.dev/?v=p9EmuuHcEtY
-#EXTINF:-1 tvg-id="e-vidya-56" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 56
-https://youtube-hls-2.rehan.workers.dev/?v=knC7Po1MPA0
-#EXTINF:-1 tvg-id="e-vidya-57" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 57
-https://youtube-hls-2.rehan.workers.dev/?v=JGiQjdpU5UQ
-#EXTINF:-1 tvg-id="e-vidya-58" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 58
-https://youtube-hls-2.rehan.workers.dev/?v=7Id5Faiu6qM
-#EXTINF:-1 tvg-id="e-vidya-59" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 59
-https://youtube-hls-2.rehan.workers.dev/?v=8AynZeONHyg
-#EXTINF:-1 tvg-id="e-vidya-60" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 60
-https://youtube-hls-2.rehan.workers.dev/?v=mR7FK4Wbbow
-#EXTINF:-1 tvg-id="e-vidya-61" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 61
-https://youtube-hls-2.rehan.workers.dev/?v=9ZABCEV8lP4
-#EXTINF:-1 tvg-id="e-vidya-62" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 62
-https://youtube-hls-2.rehan.workers.dev/?v=rQwXvEjjQhw
-#EXTINF:-1 tvg-id="e-vidya-63" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 63
-https://youtube-hls-2.rehan.workers.dev/?v=L-P7_EitZG4
-#EXTINF:-1 tvg-id="e-vidya-64" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 64
-https://youtube-hls-2.rehan.workers.dev/?v=pz0tS7LTK48
-#EXTINF:-1 tvg-id="e-vidya-65" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 65
-https://youtube-hls-2.rehan.workers.dev/?v=y4CeSysAeSc
-#EXTINF:-1 tvg-id="e-vidya-66" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 66
-https://youtube-hls-2.rehan.workers.dev/?v=TDYt3KAwbdk
-#EXTINF:-1 tvg-id="e-vidya-67" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 67
-https://youtube-hls-2.rehan.workers.dev/?v=FRL8e1JH7TE
-#EXTINF:-1 tvg-id="e-vidya-68" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 68
-https://youtube-hls-2.rehan.workers.dev/?v=0Zw1lO5e3qA
-#EXTINF:-1 tvg-id="e-vidya-69" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 69
-https://youtube-hls-2.rehan.workers.dev/?v=EeJJGFyCVFg
-#EXTINF:-1 tvg-id="e-vidya-70" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 70
-https://youtube-hls-2.rehan.workers.dev/?v=BGYiVdMO690
-#EXTINF:-1 tvg-id="e-vidya-71" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 71
-https://youtube-hls-2.rehan.workers.dev/?v=_mACn8QMm-U
-#EXTINF:-1 tvg-id="e-vidya-72" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 72
-https://youtube-hls-2.rehan.workers.dev/?v=hbbVUwt4rDo
-#EXTINF:-1 tvg-id="e-vidya-73" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 73
-https://youtube-hls-2.rehan.workers.dev/?v=LG4fANznzsc
-#EXTINF:-1 tvg-id="e-vidya-74" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 74
-https://youtube-hls-2.rehan.workers.dev/?v=AUbPrOpMJ90
-#EXTINF:-1 tvg-id="e-vidya-75" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 75
-https://youtube-hls-2.rehan.workers.dev/?v=WUcc4Bhvzz4
-#EXTINF:-1 tvg-id="e-vidya-76" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 76
-https://youtube-hls-2.rehan.workers.dev/?v=G3R3PRWMSqo
-#EXTINF:-1 tvg-id="e-vidya-77" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 77
-https://youtube-hls-2.rehan.workers.dev/?v=lVLtwUs2ofc
-#EXTINF:-1 tvg-id="dd-news" tvg-logo="https://www.lyngsat.com//logo/tv/dd/dd-news-in.png" group-title="Dd free dish;G sat 15",DD News
-https://youtube-hls-2.rehan.workers.dev/?v=llE9XzYrYBs
-#EXTINF:-1 tvg-id="sansad-tv-2" tvg-logo="https://www.lyngsat.com//logo/tv/ss/sansad-tv-2-in.png" group-title="Dd free dish;G sat 15",Sansad TV 2
-https://youtube-hls-2.rehan.workers.dev/?v=h8lXlhqXq3k
-#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://www.lyngsat.com//logo/tv/dd/dd-india-in.png" group-title="Dd free dish;G sat 15",DD India
-https://youtube-hls-2.rehan.workers.dev/?v=YBjFiT-uR9Q
-#EXTINF:-1 tvg-id="e-vidya-118" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 118
-https://youtube-hls-2.rehan.workers.dev/?v=gy3tk2sOLeA
-#EXTINF:-1 tvg-id="e-vidya-119" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 119
-https://youtube-hls-2.rehan.workers.dev/?v=f0gjMidIGwk
-#EXTINF:-1 tvg-id="e-vidya-120" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 120
-https://youtube-hls-2.rehan.workers.dev/?v=lrMlYdyDQrQ
-#EXTINF:-1 tvg-id="india-tv" tvg-logo="https://www.lyngsat.com//logo/tv/ii/india_tv_in.png" group-title="Dd free dish;G sat 15",India TV
-https://youtube-hls-2.rehan.workers.dev/?v=Xmm3Kr5P1Uw
-#EXTINF:-1 tvg-id="news-nation" tvg-logo="https://www.lyngsat.com//logo/tv/nn/news-nation-in.png" group-title="Dd free dish;G sat 15",News Nation
-https://youtube-hls-2.rehan.workers.dev/?v=cEjuoCwX9jU
-#EXTINF:-1 tvg-id="e-vidya-121" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 121
-https://youtube-hls-2.rehan.workers.dev/?v=rCWVb8I8a9o
-#EXTINF:-1 tvg-id="e-vidya-122" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 122
-https://youtube-hls-2.rehan.workers.dev/?v=vCYf_1Ij-j8
-#EXTINF:-1 tvg-id="e-vidya-123" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 123
-https://youtube-hls-2.rehan.workers.dev/?v=EgwsEotijE8
-#EXTINF:-1 tvg-id="e-vidya-124" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 124
-https://youtube-hls-2.rehan.workers.dev/?v=NC2GHF0Uux8
-#EXTINF:-1 tvg-id="e-vidya-125" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 125
-https://youtube-hls-2.rehan.workers.dev/?v=NiCY9-ZT8ME
-#EXTINF:-1 tvg-id="e-vidya-126" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 126
-https://youtube-hls-2.rehan.workers.dev/?v=CHZBUs99r48
-#EXTINF:-1 tvg-id="e-vidya-127" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 127
-https://youtube-hls-2.rehan.workers.dev/?v=ou2ZHipaBtY
-#EXTINF:-1 tvg-id="e-vidya-128" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 128
-https://youtube-hls-2.rehan.workers.dev/?v=B_XI5Yf26vU
-#EXTINF:-1 tvg-id="e-vidya-129" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 129
-https://youtube-hls-2.rehan.workers.dev/?v=1lfgOXGdi5s
-#EXTINF:-1 tvg-id="e-vidya-143" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 143
-https://youtube-hls-2.rehan.workers.dev/?v=wJx_86RPeag
-#EXTINF:-1 tvg-id="e-vidya-144" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 144
-https://youtube-hls-2.rehan.workers.dev/?v=iLgp98DIIyU
-#EXTINF:-1 tvg-id="e-vidya-145" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 145
-https://youtube-hls-2.rehan.workers.dev/?v=kZg028jtufU
-#EXTINF:-1 tvg-id="e-vidya-146" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 146
-https://youtube-hls-2.rehan.workers.dev/?v=qunDP8iYK3s
-#EXTINF:-1 tvg-id="e-vidya-147" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 147
-https://youtube-hls-2.rehan.workers.dev/?v=t2k6wSHR8Dw
-#EXTINF:-1 tvg-id="e-vidya-148" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 148
-https://youtube-hls-2.rehan.workers.dev/?v=i-PsUw48Pxk
-#EXTINF:-1 tvg-id="e-vidya-150" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 150
-https://youtube-hls-2.rehan.workers.dev/?v=Rkmz69JOtCI
-#EXTINF:-1 tvg-id="e-vidya-151" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 151
-https://youtube-hls-2.rehan.workers.dev/?v=Bbj82Z-KD24
-#EXTINF:-1 tvg-id="e-vidya-152" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 152
-https://youtube-hls-2.rehan.workers.dev/?v=b8fooS5G9xw
-#EXTINF:-1 tvg-id="e-vidya-153" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 153
-https://youtube-hls-2.rehan.workers.dev/?v=EiAnNuHopXU
-#EXTINF:-1 tvg-id="e-vidya-154" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 154
-https://youtube-hls-2.rehan.workers.dev/?v=Od648NcsdPo
-#EXTINF:-1 tvg-id="e-vidya-155" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 155
-https://youtube-hls-2.rehan.workers.dev/?v=5-PJOMit9lM
-#EXTINF:-1 tvg-id="e-vidya-156" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 156
-https://youtube-hls-2.rehan.workers.dev/?v=LQWY4gSU644
-#EXTINF:-1 tvg-id="e-vidya-157" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 157
-https://youtube-hls-2.rehan.workers.dev/?v=cww7Xb6G9wM
-#EXTINF:-1 tvg-id="e-vidya-163" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 163
-https://youtube-hls-2.rehan.workers.dev/?v=qV0uYYOtBaI
-#EXTINF:-1 tvg-id="e-vidya-164" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 164
-https://youtube-hls-2.rehan.workers.dev/?v=lThis-fM39o
-#EXTINF:-1 tvg-id="e-vidya-165" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 165
-https://youtube-hls-2.rehan.workers.dev/?v=OsOdYPlx-7o
-#EXTINF:-1 tvg-id="e-vidya-166" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 166
-https://youtube-hls-2.rehan.workers.dev/?v=VmjsnFSRlMQ
-#EXTINF:-1 tvg-id="e-vidya-167" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 167
-https://youtube-hls-2.rehan.workers.dev/?v=DeAu8S2bDvk
-#EXTINF:-1 tvg-id="e-vidya-168" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 168
-https://youtube-hls-2.rehan.workers.dev/?v=p7rtjEMGRHw
-#EXTINF:-1 tvg-id="e-vidya-169" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 169
-https://youtube-hls-2.rehan.workers.dev/?v=IbO8FFL1Rt0
-#EXTINF:-1 tvg-id="e-vidya-170" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 170
-https://youtube-hls-2.rehan.workers.dev/?v=Njosx550VBc
-#EXTINF:-1 tvg-id="e-vidya-171" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 171
-https://youtube-hls-2.rehan.workers.dev/?v=rati2rjWNds
-#EXTINF:-1 tvg-id="e-vidya-172" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 172
-https://youtube-hls-2.rehan.workers.dev/?v=K1xLUs551_A
-#EXTINF:-1 tvg-id="e-vidya-178" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 178
-https://youtube-hls-2.rehan.workers.dev/?v=MBSIWoVvwcE
-#EXTINF:-1 tvg-id="e-vidya-179" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 179
-https://youtube-hls-2.rehan.workers.dev/?v=CuU7CYo8-fQ
-#EXTINF:-1 tvg-id="e-vidya-180" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 180
-https://youtube-hls-2.rehan.workers.dev/?v=2k_P7mSEJ4I
-#EXTINF:-1 tvg-id="e-vidya-181" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 181
-https://youtube-hls-2.rehan.workers.dev/?v=yay62oUMeAk
-#EXTINF:-1 tvg-id="e-vidya-182" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 182
-https://youtube-hls-2.rehan.workers.dev/?v=O9k3oLWYHUE
-#EXTINF:-1 tvg-id="e-vidya-188" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 188
-https://youtube-hls-2.rehan.workers.dev/?v=_8SnVCBshmI
-#EXTINF:-1 tvg-id="e-vidya-189" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 189
-https://youtube-hls-2.rehan.workers.dev/?v=xt0V-27xkWU
-#EXTINF:-1 tvg-id="e-vidya-190" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 190
-https://youtube-hls-2.rehan.workers.dev/?v=hFOxBVkoLAo
-#EXTINF:-1 tvg-id="e-vidya-191" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="Dd free dish;G sat 15",E-Vidya 191
-https://youtube-hls-2.rehan.workers.dev/?v=BqjNK81PrcM
+#EXTINF:-1 tvg-id="e-vidya-1" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 1
+http://172.70.10.25:9000/youtube/hls?v=Pk6mrptz0Og
+#EXTINF:-1 tvg-id="e-vidya-2" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 2
+http://172.70.10.25:9000/youtube/hls?v=86yYAt-4zsE
+#EXTINF:-1 tvg-id="e-vidya-3" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 3
+http://172.70.10.25:9000/youtube/hls?v=tdu2FduHpio
+#EXTINF:-1 tvg-id="e-vidya-4" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 4
+http://172.70.10.25:9000/youtube/hls?v=7oZfQFHmL8w
+#EXTINF:-1 tvg-id="e-vidya-5" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 5
+http://172.70.10.25:9000/youtube/hls?v=s7m41yY2GWU
+#EXTINF:-1 tvg-id="e-vidya-6" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 6
+http://172.70.10.25:9000/youtube/hls?v=RGQEBfxTrQA
+#EXTINF:-1 tvg-id="e-vidya-7" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 7
+http://172.70.10.25:9000/youtube/hls?v=hGydxMVGmTU
+#EXTINF:-1 tvg-id="e-vidya-8" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 8
+http://172.70.10.25:9000/youtube/hls?v=QyDCwEb1KKU
+#EXTINF:-1 tvg-id="e-vidya-9" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 9
+http://172.70.10.25:9000/youtube/hls?v=y2a2RgTFXYE
+#EXTINF:-1 tvg-id="e-vidya-10" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 10
+http://172.70.10.25:9000/youtube/hls?v=7Mb-tl2O9AI
+#EXTINF:-1 tvg-id="e-vidya-11" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 11
+http://172.70.10.25:9000/youtube/hls?v=LPFh2PMVSdg
+#EXTINF:-1 tvg-id="e-vidya-12" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 12
+http://172.70.10.25:9000/youtube/hls?v=IfQ4TtUfDCI
+#EXTINF:-1 tvg-id="e-vidya-13" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 13
+http://172.70.10.25:9000/youtube/hls?v=1yTaMmHfaSo
+#EXTINF:-1 tvg-id="e-vidya-14" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 14
+http://172.70.10.25:9000/youtube/hls?v=TCa4u-FzDNY
+#EXTINF:-1 tvg-id="e-vidya-15" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 15
+http://172.70.10.25:9000/youtube/hls?v=CUshnH7Ej6E
+#EXTINF:-1 tvg-id="e-vidya-16" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 16
+http://172.70.10.25:9000/youtube/hls?v=iW5fTZDdZgE
+#EXTINF:-1 tvg-id="e-vidya-17" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 17
+http://172.70.10.25:9000/youtube/hls?v=QKaGXauCaTo
+#EXTINF:-1 tvg-id="e-vidya-18" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 18
+http://172.70.10.25:9000/youtube/hls?v=FS4OJOl7ORw
+#EXTINF:-1 tvg-id="e-vidya-19" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 19
+http://172.70.10.25:9000/youtube/hls?v=V8uwgbz2PfQ
+#EXTINF:-1 tvg-id="e-vidya-20" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 20
+http://172.70.10.25:9000/youtube/hls?v=HlHTOz5mZ3Y
+#EXTINF:-1 tvg-id="e-vidya-21" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 21
+http://172.70.10.25:9000/youtube/hls?v=wxJ63Tb1rDA
+#EXTINF:-1 tvg-id="e-vidya-22" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 22
+http://172.70.10.25:9000/youtube/hls?v=QxUau8Q4FdI
+#EXTINF:-1 tvg-id="e-vidya-23" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 23
+http://172.70.10.25:9000/youtube/hls?v=GnRKs1ePiTk
+#EXTINF:-1 tvg-id="e-vidya-24" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 24
+http://172.70.10.25:9000/youtube/hls?v=b1cjkSIW3H8
+#EXTINF:-1 tvg-id="e-vidya-25" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 25
+http://172.70.10.25:9000/youtube/hls?v=hfjkh68KrMM
+#EXTINF:-1 tvg-id="e-vidya-26" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 26
+http://172.70.10.25:9000/youtube/hls?v=MyH7LLqBIHA
+#EXTINF:-1 tvg-id="e-vidya-27" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 27
+http://172.70.10.25:9000/youtube/hls?v=Y0RVtqgQ5F8
+#EXTINF:-1 tvg-id="e-vidya-28" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 28
+http://172.70.10.25:9000/youtube/hls?v=JYwEnsp3zyE
+#EXTINF:-1 tvg-id="e-vidya-29" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 29
+http://172.70.10.25:9000/youtube/hls?v=_wCKHk8m8yM
+#EXTINF:-1 tvg-id="e-vidya-30" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 30
+http://172.70.10.25:9000/youtube/hls?v=AdSGNRx6OE8
+#EXTINF:-1 tvg-id="e-vidya-32" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 32
+http://172.70.10.25:9000/youtube/hls?v=8ojvYCyw6Ro
+#EXTINF:-1 tvg-id="e-vidya-33" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 33
+http://172.70.10.25:9000/youtube/hls?v=N5Znv1yd4C4
+#EXTINF:-1 tvg-id="e-vidya-34" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 34
+http://172.70.10.25:9000/youtube/hls?v=8n6Jberi0BA
+#EXTINF:-1 tvg-id="e-vidya-36" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 36
+http://172.70.10.25:9000/youtube/hls?v=RaSOdn_BIcY
+#EXTINF:-1 tvg-id="e-vidya-37" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 37
+http://172.70.10.25:9000/youtube/hls?v=O42PtSLM4ps
+#EXTINF:-1 tvg-id="e-vidya-38" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 38
+http://172.70.10.25:9000/youtube/hls?v=DgKVCa0fgmY
+#EXTINF:-1 tvg-id="e-vidya-39" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 39
+http://172.70.10.25:9000/youtube/hls?v=DTL2l1_QCf4
+#EXTINF:-1 tvg-id="e-vidya-40" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 40
+http://172.70.10.25:9000/youtube/hls?v=1EZKfhvptQo
+#EXTINF:-1 tvg-id="e-vidya-41" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 41
+http://172.70.10.25:9000/youtube/hls?v=Qc7FRXyM3yA
+#EXTINF:-1 tvg-id="e-vidya-42" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 42
+http://172.70.10.25:9000/youtube/hls?v=ORzKRmZmlgs
+#EXTINF:-1 tvg-id="e-vidya-43" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 43
+http://172.70.10.25:9000/youtube/hls?v=Wz6GxecZYK8
+#EXTINF:-1 tvg-id="e-vidya-44" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 44
+http://172.70.10.25:9000/youtube/hls?v=-lNV8YYlA1E
+#EXTINF:-1 tvg-id="e-vidya-45" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 45
+http://172.70.10.25:9000/youtube/hls?v=D6-34NuGAmQ
+#EXTINF:-1 tvg-id="e-vidya-46" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 46
+http://172.70.10.25:9000/youtube/hls?v=YEcKUQxjSv8
+#EXTINF:-1 tvg-id="e-vidya-47" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 47
+http://172.70.10.25:9000/youtube/hls?v=lw9Ix3O03WY
+#EXTINF:-1 tvg-id="e-vidya-48" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 48
+http://172.70.10.25:9000/youtube/hls?v=aFWQwfw_zX8
+#EXTINF:-1 tvg-id="e-vidya-50" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 50
+http://172.70.10.25:9000/youtube/hls?v=2pw-uGHkAkA
+#EXTINF:-1 tvg-id="e-vidya-51" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 51
+http://172.70.10.25:9000/youtube/hls?v=2k-6shkrpkg
+#EXTINF:-1 tvg-id="e-vidya-52" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 52
+http://172.70.10.25:9000/youtube/hls?v=enoRjI2oHxM
+#EXTINF:-1 tvg-id="e-vidya-53" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 53
+http://172.70.10.25:9000/youtube/hls?v=wjeMRkHBuSE
+#EXTINF:-1 tvg-id="e-vidya-54" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 54
+http://172.70.10.25:9000/youtube/hls?v=dDqzrcxxrJk
+#EXTINF:-1 tvg-id="e-vidya-55" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 55
+http://172.70.10.25:9000/youtube/hls?v=p9EmuuHcEtY
+#EXTINF:-1 tvg-id="e-vidya-56" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 56
+http://172.70.10.25:9000/youtube/hls?v=knC7Po1MPA0
+#EXTINF:-1 tvg-id="e-vidya-57" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 57
+http://172.70.10.25:9000/youtube/hls?v=JGiQjdpU5UQ
+#EXTINF:-1 tvg-id="e-vidya-58" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 58
+http://172.70.10.25:9000/youtube/hls?v=7Id5Faiu6qM
+#EXTINF:-1 tvg-id="e-vidya-59" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 59
+http://172.70.10.25:9000/youtube/hls?v=8AynZeONHyg
+#EXTINF:-1 tvg-id="e-vidya-60" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 60
+http://172.70.10.25:9000/youtube/hls?v=mR7FK4Wbbow
+#EXTINF:-1 tvg-id="e-vidya-61" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 61
+http://172.70.10.25:9000/youtube/hls?v=9ZABCEV8lP4
+#EXTINF:-1 tvg-id="e-vidya-62" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 62
+http://172.70.10.25:9000/youtube/hls?v=rQwXvEjjQhw
+#EXTINF:-1 tvg-id="e-vidya-63" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 63
+http://172.70.10.25:9000/youtube/hls?v=L-P7_EitZG4
+#EXTINF:-1 tvg-id="e-vidya-64" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 64
+http://172.70.10.25:9000/youtube/hls?v=pz0tS7LTK48
+#EXTINF:-1 tvg-id="e-vidya-65" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 65
+http://172.70.10.25:9000/youtube/hls?v=y4CeSysAeSc
+#EXTINF:-1 tvg-id="e-vidya-66" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 66
+http://172.70.10.25:9000/youtube/hls?v=TDYt3KAwbdk
+#EXTINF:-1 tvg-id="e-vidya-67" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 67
+http://172.70.10.25:9000/youtube/hls?v=FRL8e1JH7TE
+#EXTINF:-1 tvg-id="e-vidya-68" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 68
+http://172.70.10.25:9000/youtube/hls?v=0Zw1lO5e3qA
+#EXTINF:-1 tvg-id="e-vidya-69" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 69
+http://172.70.10.25:9000/youtube/hls?v=EeJJGFyCVFg
+#EXTINF:-1 tvg-id="e-vidya-70" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 70
+http://172.70.10.25:9000/youtube/hls?v=BGYiVdMO690
+#EXTINF:-1 tvg-id="e-vidya-71" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 71
+http://172.70.10.25:9000/youtube/hls?v=_mACn8QMm-U
+#EXTINF:-1 tvg-id="e-vidya-72" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 72
+http://172.70.10.25:9000/youtube/hls?v=hbbVUwt4rDo
+#EXTINF:-1 tvg-id="e-vidya-73" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 73
+http://172.70.10.25:9000/youtube/hls?v=LG4fANznzsc
+#EXTINF:-1 tvg-id="e-vidya-74" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 74
+http://172.70.10.25:9000/youtube/hls?v=AUbPrOpMJ90
+#EXTINF:-1 tvg-id="e-vidya-75" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 75
+http://172.70.10.25:9000/youtube/hls?v=WUcc4Bhvzz4
+#EXTINF:-1 tvg-id="e-vidya-76" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 76
+http://172.70.10.25:9000/youtube/hls?v=G3R3PRWMSqo
+#EXTINF:-1 tvg-id="e-vidya-77" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 77
+http://172.70.10.25:9000/youtube/hls?v=lVLtwUs2ofc
+#EXTINF:-1 tvg-id="dd-news" tvg-logo="https://www.lyngsat.com//logo/tv/dd/dd-news-in.png" group-title="G sat 15;Dd free dish",DD News
+http://172.70.10.25:9000/youtube/hls?v=llE9XzYrYBs
+#EXTINF:-1 tvg-id="sansad-tv-2" tvg-logo="https://www.lyngsat.com//logo/tv/ss/sansad-tv-2-in.png" group-title="G sat 15;Dd free dish",Sansad TV 2
+http://172.70.10.25:9000/youtube/hls?v=h8lXlhqXq3k
+#EXTINF:-1 tvg-id="dd-india" tvg-logo="https://www.lyngsat.com//logo/tv/dd/dd-india-in.png" group-title="G sat 15;Dd free dish",DD India
+http://172.70.10.25:9000/youtube/hls?v=YBjFiT-uR9Q
+#EXTINF:-1 tvg-id="e-vidya-118" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 118
+http://172.70.10.25:9000/youtube/hls?v=gy3tk2sOLeA
+#EXTINF:-1 tvg-id="e-vidya-119" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 119
+http://172.70.10.25:9000/youtube/hls?v=f0gjMidIGwk
+#EXTINF:-1 tvg-id="e-vidya-120" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 120
+http://172.70.10.25:9000/youtube/hls?v=lrMlYdyDQrQ
+#EXTINF:-1 tvg-id="india-tv" tvg-logo="https://www.lyngsat.com//logo/tv/ii/india_tv_in.png" group-title="G sat 15;Dd free dish",India TV
+http://172.70.10.25:9000/youtube/hls?v=Xmm3Kr5P1Uw
+#EXTINF:-1 tvg-id="news-nation" tvg-logo="https://www.lyngsat.com//logo/tv/nn/news-nation-in.png" group-title="G sat 15;Dd free dish",News Nation
+http://172.70.10.25:9000/youtube/hls?v=cEjuoCwX9jU
+#EXTINF:-1 tvg-id="e-vidya-121" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 121
+http://172.70.10.25:9000/youtube/hls?v=rCWVb8I8a9o
+#EXTINF:-1 tvg-id="e-vidya-122" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 122
+http://172.70.10.25:9000/youtube/hls?v=vCYf_1Ij-j8
+#EXTINF:-1 tvg-id="e-vidya-123" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 123
+http://172.70.10.25:9000/youtube/hls?v=EgwsEotijE8
+#EXTINF:-1 tvg-id="e-vidya-124" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 124
+http://172.70.10.25:9000/youtube/hls?v=NC2GHF0Uux8
+#EXTINF:-1 tvg-id="e-vidya-125" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 125
+http://172.70.10.25:9000/youtube/hls?v=NiCY9-ZT8ME
+#EXTINF:-1 tvg-id="e-vidya-126" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 126
+http://172.70.10.25:9000/youtube/hls?v=CHZBUs99r48
+#EXTINF:-1 tvg-id="e-vidya-127" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 127
+http://172.70.10.25:9000/youtube/hls?v=ou2ZHipaBtY
+#EXTINF:-1 tvg-id="e-vidya-128" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 128
+http://172.70.10.25:9000/youtube/hls?v=B_XI5Yf26vU
+#EXTINF:-1 tvg-id="e-vidya-129" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 129
+http://172.70.10.25:9000/youtube/hls?v=1lfgOXGdi5s
+#EXTINF:-1 tvg-id="e-vidya-143" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 143
+http://172.70.10.25:9000/youtube/hls?v=wJx_86RPeag
+#EXTINF:-1 tvg-id="e-vidya-144" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 144
+http://172.70.10.25:9000/youtube/hls?v=iLgp98DIIyU
+#EXTINF:-1 tvg-id="e-vidya-145" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 145
+http://172.70.10.25:9000/youtube/hls?v=kZg028jtufU
+#EXTINF:-1 tvg-id="e-vidya-146" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 146
+http://172.70.10.25:9000/youtube/hls?v=qunDP8iYK3s
+#EXTINF:-1 tvg-id="e-vidya-147" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 147
+http://172.70.10.25:9000/youtube/hls?v=t2k6wSHR8Dw
+#EXTINF:-1 tvg-id="e-vidya-148" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 148
+http://172.70.10.25:9000/youtube/hls?v=i-PsUw48Pxk
+#EXTINF:-1 tvg-id="e-vidya-150" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 150
+http://172.70.10.25:9000/youtube/hls?v=Rkmz69JOtCI
+#EXTINF:-1 tvg-id="e-vidya-151" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 151
+http://172.70.10.25:9000/youtube/hls?v=Bbj82Z-KD24
+#EXTINF:-1 tvg-id="e-vidya-152" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 152
+http://172.70.10.25:9000/youtube/hls?v=b8fooS5G9xw
+#EXTINF:-1 tvg-id="e-vidya-153" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 153
+http://172.70.10.25:9000/youtube/hls?v=EiAnNuHopXU
+#EXTINF:-1 tvg-id="e-vidya-154" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 154
+http://172.70.10.25:9000/youtube/hls?v=Od648NcsdPo
+#EXTINF:-1 tvg-id="e-vidya-155" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 155
+http://172.70.10.25:9000/youtube/hls?v=5-PJOMit9lM
+#EXTINF:-1 tvg-id="e-vidya-156" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 156
+http://172.70.10.25:9000/youtube/hls?v=LQWY4gSU644
+#EXTINF:-1 tvg-id="e-vidya-157" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 157
+http://172.70.10.25:9000/youtube/hls?v=cww7Xb6G9wM
+#EXTINF:-1 tvg-id="e-vidya-163" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 163
+http://172.70.10.25:9000/youtube/hls?v=qV0uYYOtBaI
+#EXTINF:-1 tvg-id="e-vidya-164" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 164
+http://172.70.10.25:9000/youtube/hls?v=lThis-fM39o
+#EXTINF:-1 tvg-id="e-vidya-165" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 165
+http://172.70.10.25:9000/youtube/hls?v=OsOdYPlx-7o
+#EXTINF:-1 tvg-id="e-vidya-166" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 166
+http://172.70.10.25:9000/youtube/hls?v=VmjsnFSRlMQ
+#EXTINF:-1 tvg-id="e-vidya-167" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 167
+http://172.70.10.25:9000/youtube/hls?v=DeAu8S2bDvk
+#EXTINF:-1 tvg-id="e-vidya-168" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 168
+http://172.70.10.25:9000/youtube/hls?v=p7rtjEMGRHw
+#EXTINF:-1 tvg-id="e-vidya-169" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 169
+http://172.70.10.25:9000/youtube/hls?v=IbO8FFL1Rt0
+#EXTINF:-1 tvg-id="e-vidya-170" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 170
+http://172.70.10.25:9000/youtube/hls?v=Njosx550VBc
+#EXTINF:-1 tvg-id="e-vidya-171" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 171
+http://172.70.10.25:9000/youtube/hls?v=rati2rjWNds
+#EXTINF:-1 tvg-id="e-vidya-172" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 172
+http://172.70.10.25:9000/youtube/hls?v=K1xLUs551_A
+#EXTINF:-1 tvg-id="e-vidya-178" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 178
+http://172.70.10.25:9000/youtube/hls?v=MBSIWoVvwcE
+#EXTINF:-1 tvg-id="e-vidya-179" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 179
+http://172.70.10.25:9000/youtube/hls?v=CuU7CYo8-fQ
+#EXTINF:-1 tvg-id="e-vidya-180" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 180
+http://172.70.10.25:9000/youtube/hls?v=2k_P7mSEJ4I
+#EXTINF:-1 tvg-id="e-vidya-181" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 181
+http://172.70.10.25:9000/youtube/hls?v=yay62oUMeAk
+#EXTINF:-1 tvg-id="e-vidya-182" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 182
+http://172.70.10.25:9000/youtube/hls?v=O9k3oLWYHUE
+#EXTINF:-1 tvg-id="e-vidya-188" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 188
+http://172.70.10.25:9000/youtube/hls?v=_8SnVCBshmI
+#EXTINF:-1 tvg-id="e-vidya-189" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 189
+http://172.70.10.25:9000/youtube/hls?v=xt0V-27xkWU
+#EXTINF:-1 tvg-id="e-vidya-190" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 190
+http://172.70.10.25:9000/youtube/hls?v=hFOxBVkoLAo
+#EXTINF:-1 tvg-id="e-vidya-191" tvg-logo="https://www.lyngsat.com//logo/tv/ee/e-vidya-in.png" group-title="G sat 15;Dd free dish",E-Vidya 191
+http://172.70.10.25:9000/youtube/hls?v=BqjNK81PrcM
