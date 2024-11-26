@@ -51,25 +51,9 @@ https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b84
 #EXTINF:-1 tvg-id="discovery-kids-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-kids-hindi.png" group-title="Kids",Discovery Kids Hindi 
 #EXTVLCOPT:http-refferer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Kids_Hindi.m3u8&id=1822&type=mp4
 https://neeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
-#EXTINF:-1 tvg-id="balle-balle-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-1.png" group-title="Punjabi",Balle Balle 1 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
-#EXTINF:-1 tvg-id="balle-balle-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle-2.png" group-title="Punjabi",Balle Balle 2 
-https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="punjabi-hits" tvg-logo="https://rohitrehan.github.io/iptv/logos/punjabi-hits.png" group-title="Punjabi",Punjabi Hits 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/e3486447-182f-45a1-91e4-ef7fe932e9cb/0.m3u8
-#EXTINF:-1 tvg-id="ptc-dhol" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-dhol.png" group-title="Punjabi",PTC Dhol 
-#EXTVLCOPT:http-refferer=https://www.ptcplay.com/
-https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-1" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-1.png" group-title="Punjabi",9x Tashsan 1 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
-#EXTINF:-1 tvg-id="9x-tashsan-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/9x-tashsan-2.png" group-title="Punjabi",9x Tashsan 2 
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-comedy" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-comedy.png" group-title="Punjabi",Pitara Comedy 
-https://amg01864-amg01864c1-samsung-in-3266.playouts.now.amagi.tv/playlist/amg01864-pitaaratvfast-pitaaracomedy-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="pitara-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/pitara-tv.png" group-title="Punjabi",Pitara TV 
-https://vg-pitaaratvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/8b14f974-5c96-44b5-9b25-209e18157442/0.m3u8
-#EXTINF:-1 tvg-id="tv-punjab" tvg-logo="https://rohitrehan.github.io/iptv/logos/tv-punjab.png" group-title="Punjabi",TV Punjab 
-https://hls.tvpunjab.com/stream/deb10bae362f810630ec3abedcae5894.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="zee-punjabi" tvg-logo="https://rohitrehan.github.io/iptv/logos/zee-punjabi.png" group-title="Punjabi",Zee Punjabi MhdMaxTV
+#EXTVLCOPT:http-refferer=https://mhdmaxtv.me/nowmelive/play.php?id=0-9-215
+https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-215
 #EXTINF:-1 tvg-id="kids-tv-india" tvg-logo="https://rohitrehan.github.io/iptv/logos/kids-tv-india.png" group-title="Kids",Kids TV India 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 #EXTINF:-1 tvg-id="kids-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/kids-tv.png" group-title="Kids",Kids TV 
@@ -86,10 +70,10 @@ https://colorsscreen.com/live.php?id=1780&extension=.m3u8
 #EXTINF:-1 tvg-id="sony-kal-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi.png" group-title="Sony",Sony Kal Hindi KeralaMaxTV
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/stream.php?id=7854
 https://keralamaxtv.com/sliv/stream.php?id=7854
-#EXTINF:-1 tvg-id="sony-kal-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi.png" group-title="Sony",Sony Kal Hindi None
+#EXTINF:-1 tvg-id="sony-kal-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi.png" group-title="Sony",Sony Kal Hindi 
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="sony-kal-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi.png" group-title="Sony",Sony Kal Hindi None 2
+#EXTINF:-1 tvg-id="sony-kal-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-kal-hindi.png" group-title="Sony",Sony Kal Hindi 2
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://dbrb49pjoymg4.cloudfront.net/10001/99951184/hls/playlist.m3u8?ads.xumo_channelId=99951184
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max-hd.png" group-title="Sony",Sony Max HD BDIX
@@ -128,7 +112,7 @@ https://bdixtv24.site/toffee/live.php?id=b7167fe646a4&e=.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-sab-hd.png" group-title="Sony",Sony Sab HD KeralaMaxTV
 #EXTVLCOPT:http-refferer=https://keralamaxtv.com/sliv/stream.php?id=1201
 https://keralamaxtv.com/sliv/stream.php?id=1201
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-sab-hd.png" group-title="Sony",Sony Sab HD None
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-sab-hd.png" group-title="Sony",Sony Sab HD 
 #EXTVLCOPT:http-refferer=https://neeplay.com/
 https://webott.viatv.com.np/v0t1/SonySabHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-wah.png" group-title="Sony",Sony Wah BDIX
@@ -238,6 +222,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3011d79f-9b94-4386-8a0a-53a1bea6724e
 #EXTINF:-1 tvg-id="ptc-chakde-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-chakde-(720p).png" group-title="",PTC Chakde (720p) 
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ptc-dhol-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-dhol-(720p).png" group-title="",PTC Dhol (720p) 
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ptc-music-(720p)" tvg-logo="https://rohitrehan.github.io/iptv/logos/ptc-music-(720p).png" group-title="",PTC Music (720p) 
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="-news-(1080p)-[not-24/7]" tvg-logo="https://rohitrehan.github.io/iptv/logos/-news-(1080p)-[not-24/7].png" group-title="",News (1080p) [Not 24/7] 
@@ -252,6 +238,8 @@ https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f81-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3c749ba3-753d-4787-aa99-051f1037b6b3
+#EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc852c03-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f5d2e90-2471-4d92-b142-439cfc613cca
 #EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?}ppName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
 #EXTINF:-1 tvg-id="pluto-tv-animals" tvg-logo="https://rohitrehan.github.io/iptv/logos/pluto-tv-animals.png" group-title="",Pluto TV Animals 
@@ -322,10 +310,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="t-sports" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png" group-title="",T Sports 
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
-#EXTINF:-1 tvg-id="ntv-uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="",NTV UK 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="",RTV 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="satv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="",SATV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="deepto-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="",Deepto TV 
@@ -344,8 +328,12 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg" group-title="",Jamuna TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="",News 24 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ekhone-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png" group-title="",Ekhone TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="jago-news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="",Jago News 24 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="atn-music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="",ATN Music 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="-peace-tv-english" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="",Peace TV English 
@@ -358,10 +346,14 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="-makkah-tv" tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="",Makkah TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="-al-sunnah-tv" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="",AL Sunnah TV 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="god-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/god-tv.png" group-title="Relagion channel",God TV 
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="-arihant-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-arihant-tv.png" group-title="Relagion channel",Arihant TV 
 https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8
+#EXTINF:-1 tvg-id="amar-digital" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="",Amar Digital 
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-id="calcutta-news" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="",Calcutta News 
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="samay-kolkata" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="",Samay Kolkata 
@@ -478,6 +470,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="https://rohitrehan.github.io/iptv/logos/cnn.png" group-title="English news",CNN 
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="cgtn-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/cgtn-news.png" group-title="English news",CGTN News 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="dw-naws" tvg-logo="https://rohitrehan.github.io/iptv/logos/dw-naws.png" group-title="English news",DW Naws 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="fox-news-now" tvg-logo="https://rohitrehan.github.io/iptv/logos/fox-news-now.png" group-title="English news",Fox News Now 
@@ -568,8 +562,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
 #EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/bbc-news.png" group-title="News internasional",BBC News 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
-#EXTINF:-1 tvg-id="bbc-news" tvg-logo="https://rohitrehan.github.io/iptv/logos/bbc-news.png" group-title="News internasional",BBC News 
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-id="dw-english" tvg-logo="https://rohitrehan.github.io/iptv/logos/dw-english.png" group-title="News internasional",DW English 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-id="-fox-news-(au)-🛜" tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="",FOX News (AU) 🛜 
