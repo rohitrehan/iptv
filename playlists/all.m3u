@@ -139,23 +139,18 @@ https://keralamaxtv.com/sliv/stream.php?id=
 https://bdixtv24.site/toffee/live.php?id=243771d9592c&e=.m3u8
 #EXTINF:-1 tvg-id="sony-tv-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-tv-hd.png" group-title="Sony",Sony TV HD KeralaMaxTV
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php?id=1100
-#EXTVLCOPT:http-DNT=1
 https://keralamaxtv.com/sliv/stream.php?id=1100
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max.png" group-title="Sony",Sony Max BDIX
 #EXTVLCOPT:http-referrer=https://bdixtv24.site/toffee/?play=b6192dbff21b
-#EXTVLCOPT:http-DNT=1
 https://bdixtv24.site/toffee/live.php?id=b6192dbff21b&e=.m3u8
 #EXTINF:-1 tvg-id="sony-max" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max.png" group-title="Sony",Sony Max KeralaMaxTV
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php?id=96
-#EXTVLCOPT:http-DNT=1
 https://keralamaxtv.com/sliv/stream.php?id=96
 #EXTINF:-1 tvg-id="sony-max2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max2.png" group-title="Sony",Sony Max2 BDIX
 #EXTVLCOPT:http-referrer=https://bdixtv24.site/toffee/?play=420510be5c17
-#EXTVLCOPT:http-DNT=1
 https://bdixtv24.site/toffee/live.php?id=420510be5c17&e=.m3u8
 #EXTINF:-1 tvg-id="sony-max2" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-max2.png" group-title="Sony",Sony Max2 KeralaMaxTV
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php?id=123
-#EXTVLCOPT:http-DNT=1
 https://keralamaxtv.com/sliv/stream.php?id=123
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/sony-sab-hd.png" group-title="Sony",Sony Sab HD BDIX
 #EXTVLCOPT:http-referrer=https://bdixtv24.site/toffee/?play=b7167fe646a4
