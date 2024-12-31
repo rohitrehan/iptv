@@ -208,6 +208,9 @@ https://webott.viatv.com.np/v0t1/StarUtsav.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="star-plus" tvg-logo="https://rohitrehan.github.io/iptv/logos/star-plus.png" group-title="Star",Star Plus 
 #EXTVLCOPT:http-referrer=https://neeplay.com/
 https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="dd-punjabi" tvg-logo="https://rohitrehan.github.io/iptv/logos/dd-punjabi.png" group-title="",DD Punjabi 
+#EXTVLCOPT:http-referrer=https://mhdtvstream.com/play.php?id=715
+https://mhdtvstream.com/live.php?id=715&extension=.m3u8
 #EXTINF:-1 tvg-id="shemaroo-bollywood" tvg-logo="https://rohitrehan.github.io/iptv/logos/shemaroo-bollywood.png" group-title="",Shemaroo Bollywood 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #EXTINF:-1 tvg-id="shemaroo-bollywood-2" tvg-logo="https://rohitrehan.github.io/iptv/logos/shemaroo-bollywood-2.png" group-title="",Shemaroo Bollywood 2 
@@ -413,14 +416,14 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="channel-i" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png" group-title="",Channel I 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="",NTV UK 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="",RTV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="satv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="",SATV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="deepto-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="",Deepto TV 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="bijoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png" group-title="",Bijoy TV 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nexus-tv-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="",Nexus TV HD 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="channel-s-uk-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="",Channel S UK HD 
@@ -445,6 +448,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="-makkah-tv" tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="",Makkah TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="-al-sunnah-tv" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="",AL Sunnah TV 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="god-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/god-tv.png" group-title="Relagion channel",God TV 
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="-arihant-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-arihant-tv.png" group-title="Relagion channel",Arihant TV 
@@ -623,8 +628,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="-discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd.png" group-title="Infotainment channels",Discovery HD 
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-#EXTINF:-1 tvg-id="-discovery-hd-b" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd-b.png" group-title="Infotainment channels",Discovery HD B 
-https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-id="-tlc-(l*)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-(l*).png" group-title="Infotainment channels",TLC (L*) 
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 #EXTINF:-1 tvg-id="-tlc-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-hd.png" group-title="Infotainment channels",TLC HD 
