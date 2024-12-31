@@ -1,58 +1,21 @@
 #EXTM3U
 # All the links in this file are collected from public sources. If anyone wants to remove their source,# Please let us know. We respect your opinions and efforts, so we will not object to removing your source.
-#EXTINF:-1 tvg-id="animal-planet-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/animal-planet-hindi.png" group-title="Discovery",Animal Planet hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FAnimal_Planettv_Hindi.m3u8&id=12030&type=mp4
-https://neeplay.com/delta/discovery/api/Animal_Planettv_Hindi.m3u8
-#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://rohitrehan.github.io/iptv/logos/animal-planet.png" group-title="Discovery",Animal Planet 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FAnimal_Planet.m3u8&id=12027&type=mp4
-https://neeplay.com/delta/discovery/api/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="discovery-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-hd-hindi.png" group-title="Discovery",Discovery HD Hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Hindi.m3u8&id=12051&type=mp4
-https://neeplay.com/delta/discovery/api/Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="discovery-science-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-science-hindi.png" group-title="Discovery",Discovery Science Hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Science_Hindi.m3u8&id=809&type=mp4
-https://neeplay.com/delta/discovery/api/Discovery_Science_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/investigation-discovery-hindi.png" group-title="Discovery",Investigation Discovery Hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FInvestigation_Discovery_Hindi.m3u8&id=12072&type=mp4
-https://neeplay.com/delta/discovery/api/Investigation_Discovery_Hindi.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://rohitrehan.github.io/iptv/logos/investigation-discovery.png" group-title="Discovery",Investigation Discovery 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FInvestigation_Discovery.m3u8&id=12075&type=mp4
-https://neeplay.com/delta/discovery/api/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-science.png" group-title="Discovery",Discovery Science 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Science.m3u8&id=12060&type=mp4
-https://neeplay.com/delta/discovery/api/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="dmax" tvg-logo="https://rohitrehan.github.io/iptv/logos/dmax.png" group-title="Discovery",DMAX 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDMAX.m3u8&id=12063&type=mp4
-https://neeplay.com/delta/discovery/api/DMAX.m3u8
-#EXTINF:-1 tvg-id="discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-hd.png" group-title="Discovery",Discovery HD 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Channel.m3u8&id=12054&type=mp4
-https://neeplay.com/delta/discovery/api/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-id="discovery-turbo" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-turbo.png" group-title="Discovery",Discovery Turbo 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Turbo.m3u8&id=8950&type=mp4
-https://neeplay.com/delta/discovery/api/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-id="tlc-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/tlc-hd.png" group-title="Discovery",TLC HD 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FTLC.m3u8&id=12088&type=mp4
-https://neeplay.com/delta/discovery/api/TLC.m3u8
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://rohitrehan.github.io/iptv/logos/hgtv.png" group-title="Discovery",HGTV 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FHGTV.m3u8&id=12069&type=mp4
-https://neeplay.com/delta/discovery/api/HGTV.m3u8
-#EXTINF:-1 tvg-id="tlc-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/tlc-hd-hindi.png" group-title="Discovery",TLC HD Hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FTLC_Hindi.m3u8&id=1827&type=mp4
-https://neeplay.com/delta/discovery/api/TLC_Hindi.m3u8
-#EXTINF:-1 tvg-id="food-network" tvg-logo="https://rohitrehan.github.io/iptv/logos/food-network.png" group-title="Discovery",Food Network 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FFood%20Network.m3u8&id=8094&type=mp4
-https://neeplay.com/delta/discovery/api/Food%20Network.m3u8
-#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/history-tv18-hd-hindi.png" group-title="Discovery",History TV18 HD Hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://rohitrehan.github.io/iptv/logos/love-nature.png" group-title="Discovery",Love Nature 
-#EXTVLCOPT:http-referrer=https://neeplay.com/
-https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b844100_sleng.m3u8
-#EXTINF:-1 tvg-id="discovery-kids-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-kids-hindi.png" group-title="Kids",Discovery Kids Hindi 
-#EXTVLCOPT:http-referrer=https://neeplay.com/jwplayer/?source=%2Fdelta%2Fdiscovery%2Fapi%2FDiscovery_Kids_Hindi.m3u8&id=1822&type=mp4
-https://neeplay.com/delta/discovery/api/Discovery_Kids_Hindi.m3u8
+#EXTINF:-1 tvg-id="discovery-sd" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-sd.png" group-title="Discovery",Discovery SD MhdTVStream
+#EXTVLCOPT:http-referrer=https://mhdtvstream.com/play.php?id=242
+#EXTVLCOPT:http-DNT=1
+https://mhdtvstream.com/live.php?id=242&extension=.m3u8
+#EXTINF:-1 tvg-id="discovery-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-hindi.png" group-title="",Discovery Hindi 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
+#EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-science.png" group-title="",Discovery Science 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-logo="https://rohitrehan.github.io/iptv/logos/investigation-discovery.png" group-title="",Investigation Discovery 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 #EXTINF:-1 tvg-id="discovery-asia" tvg-logo="https://rohitrehan.github.io/iptv/logos/discovery-asia.png" group-title="",Discovery Asia 
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-id="history-tv18-hd-hindi" tvg-logo="https://rohitrehan.github.io/iptv/logos/history-tv18-hd-hindi.png" group-title="",History TV18 HD Hindi 
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="love-nature" tvg-logo="https://rohitrehan.github.io/iptv/logos/love-nature.png" group-title="",Love Nature 
+https://cdn09jtedge.indihometv.com/joss/194/lovenature/chunklist_w1889033114_b844100_sleng.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-logo="https://rohitrehan.github.io/iptv/logos/balle-balle.png" group-title="Punjabi",Balle Balle 
 #EXTVLCOPT:http-referrer=https://neeplay.com/
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8
@@ -418,18 +381,16 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv-uk" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="",NTV UK 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png" group-title="",RTV 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="satv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="",SATV 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="deepto-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="",Deepto TV 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="nexus-tv-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="",Nexus TV HD 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="bijoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png" group-title="",Bijoy TV 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="channel-s-uk-hd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="",Channel S UK HD 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kids-creation" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="",Kids Creation 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="somoy-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg" group-title="",Somoy TV 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="jamuna-tv" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg" group-title="",Jamuna TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="news-24" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="",News 24 
@@ -448,8 +409,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="-makkah-tv" tvg-logo="https://i.ibb.co/TtHtGkW/20240803-172601.png" group-title="",Makkah TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="-al-sunnah-tv" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png" group-title="",AL Sunnah TV 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="god-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/god-tv.png" group-title="Relagion channel",God TV 
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 #EXTINF:-1 tvg-id="-arihant-tv" tvg-logo="https://rohitrehan.github.io/iptv/logos/-arihant-tv.png" group-title="Relagion channel",Arihant TV 
@@ -628,6 +587,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="-discovery-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd.png" group-title="Infotainment channels",Discovery HD 
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-id="-discovery-hd-b" tvg-logo="https://rohitrehan.github.io/iptv/logos/-discovery-hd-b.png" group-title="Infotainment channels",Discovery HD B 
+https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-id="-tlc-(l*)" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-(l*).png" group-title="Infotainment channels",TLC (L*) 
 https://code.vthanhtivi.pw/getlink/eazie/243126/playlist.m3u8
 #EXTINF:-1 tvg-id="-tlc-hd" tvg-logo="https://rohitrehan.github.io/iptv/logos/-tlc-hd.png" group-title="Infotainment channels",TLC HD 
